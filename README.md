@@ -13,9 +13,8 @@ The three categories required to be checked are briefly given below:
 Clone this git repository (web hosting available soon!): <Enter git repo here>
 
 ## Installation
-
-
-Install requirements: `pip install -r requirements.txt` 
+In the command prompt, do the following: <br/><br/>
+Install requirements: `pip install -r requirements.txt` <br/>
 Run the flask app in local: `flask --app app run`
 
 ## To call Instructors API:
