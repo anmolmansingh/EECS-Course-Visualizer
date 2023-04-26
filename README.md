@@ -15,13 +15,11 @@ Clone this git repository (web hosting available soon!): <Enter git repo here>
 ## Installation
 
 
-Install requirements
-- `pip install -r requirements.txt`
-Run the flask app in local
-- 'flask --app app run'
+Install requirements: `pip install -r requirements.txt` 
+Run the flask app in local: `flask --app app run`
 
 ## To call Instructors API:
-# Add client key and secret:
+### Add client key and secret:
 - Visit UMich API page (https://dir.api.it.umich.edu/):
     - Refer to relevant resources to fetch the API key and secret
 - create env_variables.env file in your local and add the key, secret values as CLIENT_KEY, CLIENT_SECRET
