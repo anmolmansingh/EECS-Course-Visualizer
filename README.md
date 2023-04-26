@@ -1,4 +1,4 @@
-# this is the readme for the SI 507: improving EECS course access with graphs and trees
+# SI 507: Improving EECS course access with graphs
 
 This is a fun little course project aimed at improving your understanding of the EECS course structure visually, rather than navigate through a labyrinth of poorly-designed pages.
 
