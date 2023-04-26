@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "d81e27a6-50fb-407b-bcdd-a8fff0eae5f2",
+		"name": "Instructors",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5283094"
+	},
+	"item": [
+		{
+			"name": "OAuthToken",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"//tests[\"Status code is 200\"] = (responseCode.code === 200);\r",
+							"var jsonData = JSON.parse(responseBody);\r",
+							"tests[\"Response contains the Access Token\"] = responseBody.has(\"access_token\");\r",
+							"\r",
+							"postman.setEnvironmentVariable(\"Authorization\", \"Bearer \"+ jsonData.access_token);\r",
+							"console.log(\"Auth Token is : \" + postman.getEnvironmentVariable(\"Authorization\"));"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{APIGEE_APP_SECRET}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "{{APIGEE_APP_KEY}}",
+							"type": "string"
+						},
+						{
+							"key": "saveHelperData",
+							"value": true,
+							"type": "boolean"
+						},
+						{
+							"key": "showPassword",
+							"value": false,
+							"type": "boolean"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{APIGEE_BASE_URL}}/um/oauth2/token?grant_type=client_credentials&scope=instructors",
+					"host": [
+						"{{APIGEE_BASE_URL}}"
+					],
+					"path": [
+						"um",
+						"oauth2",
+						"token"
+					],
+					"query": [
+						{
+							"key": "grant_type",
+							"value": "client_credentials"
+						},
+						{
+							"key": "scope",
+							"value": "instructors"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Instructors",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text",
+						"name": "Accept"
+					},
+					{
+						"key": "Authorization",
+						"value": "{{Authorization}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{APIGEE_BASE_URL}}/um/aa/Instructors/:uniqname/Terms/:termCd/Classes",
+					"host": [
+						"{{APIGEE_BASE_URL}}"
+					],
+					"path": [
+						"um",
+						"aa",
+						"Instructors",
+						":uniqname",
+						"Terms",
+						":termCd",
+						"Classes"
+					],
+					"variable": [
+						{
+							"key": "uniqname",
+							"value": "brooksch"
+						},
+						{
+							"key": "termCd",
+							"value": "2260"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

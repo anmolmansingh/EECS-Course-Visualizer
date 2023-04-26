@@ -1,0 +1,1817 @@
+[
+    {
+        "Uniqname": "abney",
+        "Courses taught": [
+            "COGSCI 445",
+            "LING 445",
+            "LING 495",
+            "LING 780"
+        ]
+    },
+    {
+        "Uniqname": "ackerm",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "eadar",
+        "Courses taught": [
+            "SI 649",
+            "EECS 548",
+            "SIADS 622"
+        ]
+    },
+    {
+        "Uniqname": "afshari",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "eahmadi",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "mahali",
+        "Courses taught": [
+            "EECS 351",
+            "EECS 300"
+        ]
+    },
+    {
+        "Uniqname": "almomani",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Uniqname": "anastas",
+        "Courses taught": [
+            "EECS 558",
+            "ENGR 600"
+        ]
+    },
+    {
+        "Uniqname": "dja",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Uniqname": "warthur",
+        "Courses taught": [
+            "EECS 183"
+        ]
+    },
+    {
+        "Uniqname": "austin",
+        "Courses taught": [
+            "EECS 573"
+        ]
+    },
+    {
+        "Uniqname": "avestruz",
+        "Courses taught": [
+            "EECS 498",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Uniqname": "girasole",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "nbanovic",
+        "Courses taught": [
+            "EECS 593"
+        ]
+    },
+    {
+        "Uniqname": "bansaln",
+        "Courses taught": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Uniqname": "baveja",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 443",
+            "EECS 598",
+            "RAV 503"
+        ]
+    },
+    {
+        "Uniqname": "jbbeau",
+        "Courses taught": [
+            "EECS 370"
+        ]
+    },
+    {
+        "Uniqname": "vale",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "pkb",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 529",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "blaauw",
+        "Courses taught": [
+            "EECS 598",
+            "EECS 628"
+        ]
+    },
+    {
+        "Uniqname": "bodwin",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 598",
+            "EECS 203"
+        ]
+    },
+    {
+        "Uniqname": "brehob",
+        "Courses taught": [
+            "EECS 370",
+            "EECS 473"
+        ]
+    },
+    {
+        "Uniqname": "cbudak",
+        "Courses taught": [
+            "SI 990"
+        ]
+    },
+    {
+        "Uniqname": "lburdick",
+        "Courses taught": [
+            "EECS 487"
+        ]
+    },
+    {
+        "Uniqname": "aburgers",
+        "Courses taught": [
+            "EECS 428"
+        ]
+    },
+    {
+        "Uniqname": "chaijy",
+        "Courses taught": [
+            "EECS 595",
+            "LING 541",
+            "SI 561"
+        ]
+    },
+    {
+        "Uniqname": "dcsmc",
+        "Courses taught": [
+            "EECS 592"
+        ]
+    },
+    {
+        "Uniqname": "jiasi",
+        "Courses taught": [
+            "EECS 452"
+        ]
+    },
+    {
+        "Uniqname": "pmchen",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 482"
+        ]
+    },
+    {
+        "Uniqname": "mahdich",
+        "Courses taught": [
+            "EECS 574",
+            "EECS 475"
+        ]
+    },
+    {
+        "Uniqname": "chesneyd",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 600",
+            "ENGR 599",
+            "ENGR 455",
+            "EECS 495",
+            "MFG 503"
+        ]
+    },
+    {
+        "Uniqname": "cchestek",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "ROB 490",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Uniqname": "mosharaf",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "kevynct",
+        "Courses taught": [
+            "SIADS 542",
+            "SIADS 696"
+        ]
+    },
+    {
+        "Uniqname": "jeffcook",
+        "Courses taught": [
+            "MFG 503"
+        ]
+    },
+    {
+        "Uniqname": "jjcorso",
+        "Courses taught": [
+            "ROB 490",
+            "EECS 443",
+            "ROB 498",
+            "ROB 599",
+            "EECS 698",
+            "EECS 504"
+        ]
+    },
+    {
+        "Uniqname": "cundiff",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "PHYSICS 402",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Uniqname": "mmdarden",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 281",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "reetudas",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "awdeorio",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Uniqname": "pdeotare",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "derezin",
+        "Courses taught": [
+            "EECS 492"
+        ]
+    },
+    {
+        "Uniqname": "dhillonp",
+        "Courses taught": [
+            "EECS 443",
+            "SI 721",
+            "SI 990",
+            "SIADS 642",
+            "SI 671"
+        ]
+    },
+    {
+        "Uniqname": "kkhalsa",
+        "Courses taught": [
+            "EECS 203"
+        ]
+    },
+    {
+        "Uniqname": "dickrp",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "tdillahu",
+        "Courses taught": [
+            "SI 990"
+        ]
+    },
+    {
+        "Uniqname": "rdreslin",
+        "Courses taught": [
+            "EECS 470"
+        ]
+    },
+    {
+        "Uniqname": "xiaodu",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "EECS 467"
+        ]
+    },
+    {
+        "Uniqname": "durfee",
+        "Courses taught": [
+            "RAV 503",
+            "ENGR 600"
+        ]
+    },
+    {
+        "Uniqname": "england",
+        "Courses taught": [
+            "CLIMATE 499"
+        ]
+    },
+    {
+        "Uniqname": "ensafi",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 388"
+        ]
+    },
+    {
+        "Uniqname": "epureanu",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "MECHENG 590",
+            "MECHENG 390",
+            "ISD 590",
+            "MECHENG 490",
+            "ESENG 503",
+            "ENGR 600",
+            "MECHENG 290",
+            "MECHENG 990",
+            "DESCI 590"
+        ]
+    },
+    {
+        "Uniqname": "barbarer",
+        "Courses taught": [
+            "SI 990",
+            "SI 206"
+        ]
+    },
+    {
+        "Uniqname": "fessler",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "EECS 551",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "cfinelli",
+        "Courses taught": [
+            "EER 490",
+            "EER 601",
+            "EER 690",
+            "EER 990",
+            "EECS 698",
+            "EER 390",
+            "EER 995",
+            "CEE 995"
+        ]
+    },
+    {
+        "Uniqname": "benfish",
+        "Courses taught": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Uniqname": "manowar",
+        "Courses taught": [
+            "EECS 370"
+        ]
+    },
+    {
+        "Uniqname": "mpflynn",
+        "Courses taught": [
+            "EECS 413"
+        ]
+    },
+    {
+        "Uniqname": "stevefor",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 490",
+            "APPPHYS 995",
+            "MATSCIE 690",
+            "EECS 320",
+            "MATSCIE 990",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "fouhey",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 601"
+        ]
+    },
+    {
+        "Uniqname": "jfr",
+        "Courses taught": [
+            "EECS 461",
+            "ENGR 600",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "kevinfu",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "almantas",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "ganago",
+        "Courses taught": [
+            "EECS 314"
+        ]
+    },
+    {
+        "Uniqname": "hjgarcia",
+        "Courses taught": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Uniqname": "dgarmire",
+        "Courses taught": [
+            "EECS 312"
+        ]
+    },
+    {
+        "Uniqname": "genkin",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "yogesh",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "MFG 995",
+            "MECHENG 490",
+            "ENGR 600",
+            "MECHENG 990",
+            "MFG 503"
+        ]
+    },
+    {
+        "Uniqname": "ngiebink",
+        "Courses taught": [
+            "EECS 334"
+        ]
+    },
+    {
+        "Uniqname": "eegg",
+        "Courses taught": [
+            "SI 990",
+            "SI 307"
+        ]
+    },
+    {
+        "Uniqname": "gilchrst",
+        "Courses taught": [
+            "AEROSP 590",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "CLIMATE 990",
+            "CLIMATE 499",
+            "APPPHYS 995",
+            "ENGR 255",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "AEROSP 490",
+            "SPACE 590",
+            "AEROSP 390"
+        ]
+    },
+    {
+        "Uniqname": "rsgold",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 490",
+            "APPPHYS 995",
+            "MATSCIE 280",
+            "MATSCIE 690",
+            "MATSCIE 990",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "xwgong",
+        "Courses taught": [
+            "MATSCIE 995",
+            "CHE 490",
+            "CHE 995",
+            "CHE 698",
+            "EECS 598",
+            "CHE 696",
+            "MATSCIE 593",
+            "CHE 496",
+            "MATSCIE 690",
+            "CHE 695",
+            "CHE 990",
+            "CHE 290",
+            "MATSCIE 990"
+        ]
+    },
+    {
+        "Uniqname": "graetzer",
+        "Courses taught": [
+            "EECS 203"
+        ]
+    },
+    {
+        "Uniqname": "agrbic",
+        "Courses taught": [
+            "EECS 435"
+        ]
+    },
+    {
+        "Uniqname": "rdgregg",
+        "Courses taught": [
+            "ROB 490"
+        ]
+    },
+    {
+        "Uniqname": "paulgrub",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "anhong",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "guo",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "APPPHYS 995",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "EECS 421",
+            "MECHENG 490",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 990"
+        ]
+    },
+    {
+        "Uniqname": "mjguz",
+        "Courses taught": [
+            "EER 490",
+            "COMPFOR 121",
+            "EER 690",
+            "EER 990",
+            "SI 990",
+            "EER 390",
+            "EER 995",
+            "COMPFOR 111"
+        ]
+    },
+    {
+        "Uniqname": "gih",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "jhalderm",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 388"
+        ]
+    },
+    {
+        "Uniqname": "jhayes",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "hero",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "hiskens",
+        "Courses taught": [
+            "EECS 698",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Uniqname": "hofmann",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 598",
+            "ENGR 355",
+            "ESENG 503",
+            "ENGR 455",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "honey",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "vvh",
+        "Courses taught": [
+            "EECS 445"
+        ]
+    },
+    {
+        "Uniqname": "ryanph",
+        "Courses taught": [
+            "EECS 582"
+        ]
+    },
+    {
+        "Uniqname": "mni",
+        "Courses taught": [
+            "EECS 498",
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "jag",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 409"
+        ]
+    },
+    {
+        "Uniqname": "profdj",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Uniqname": "sugih",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 441",
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "jeannin",
+        "Courses taught": [
+            "AEROSP 490",
+            "EECS 443",
+            "AEROSP 590",
+            "AEROSP 995",
+            "AEROSP 552"
+        ]
+    },
+    {
+        "Uniqname": "ocj",
+        "Courses taught": [
+            "ROB 490",
+            "ROB 102"
+        ]
+    },
+    {
+        "Uniqname": "jenkins",
+        "Courses taught": [
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Uniqname": "justincj",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "jjuett",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Uniqname": "jurgens",
+        "Courses taught": [
+            "SI 990",
+            "EECS 549",
+            "SI 650"
+        ]
+    },
+    {
+        "Uniqname": "akamil",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Uniqname": "kanicki",
+        "Courses taught": [
+            "EECS 523",
+            "APPPHYS 995",
+            "EECS 698",
+            "ENGR 600",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "EECS 423"
+        ]
+    },
+    {
+        "Uniqname": "manosk",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "barisk",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "kieras",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Uniqname": "hunseok",
+        "Courses taught": [
+            "EECS 598",
+            "UARTS 560",
+            "UARTS 460",
+            "UARTS 260",
+            "UARTS 360"
+        ]
+    },
+    {
+        "Uniqname": "mackkira",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 540",
+            "EECS 540",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "jklooste",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Uniqname": "dkoutra",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "kmkr",
+        "Courses taught": [
+            "NERS 995",
+            "APPPHYS 995",
+            "NERS 799",
+            "NERS 990",
+            "NERS 599",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "NERS 499"
+        ]
+    },
+    {
+        "Uniqname": "peicheng",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 100",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "MFG 503"
+        ]
+    },
+    {
+        "Uniqname": "kuipers",
+        "Courses taught": [
+            "ROB 490",
+            "RAV 503"
+        ]
+    },
+    {
+        "Uniqname": "katsuo",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "APPPHYS 995",
+            "MECHENG 590",
+            "MECHENG 490",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 990"
+        ]
+    },
+    {
+        "Uniqname": "mjkush",
+        "Courses taught": [
+            "NERS 578",
+            "NERS 990",
+            "CHE 490",
+            "APPPHYS 995",
+            "NERS 799",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "CHE 990",
+            "CHE 290",
+            "EECS 517",
+            "CHE 995",
+            "NERS 995",
+            "CHE 698",
+            "CHE 695"
+        ]
+    },
+    {
+        "Uniqname": "skutty",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "EECS 445",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "stephane",
+        "Courses taught": [
+            "EECS 298",
+            "EECS 216"
+        ]
+    },
+    {
+        "Uniqname": "laird",
+        "Courses taught": [
+            "EECS 443",
+            "RAV 503"
+        ]
+    },
+    {
+        "Uniqname": "euiwoong",
+        "Courses taught": [
+            "EECS 477"
+        ]
+    },
+    {
+        "Uniqname": "honglak",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "sleee",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "EECS 230",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "drjieliu",
+        "Courses taught": [
+            "BIOINF 990",
+            "EECS 598",
+            "BIOINF 995",
+            "BIOINF 593"
+        ]
+    },
+    {
+        "Uniqname": "mingyan",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Uniqname": "zmliu",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "BIOMEDE 599",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Uniqname": "wluee",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "linmacse",
+        "Courses taught": [
+            "EECS 584"
+        ]
+    },
+    {
+        "Uniqname": "harshavm",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "hessam",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Uniqname": "mahlke",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "mmakar",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Uniqname": "tolya",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Uniqname": "manerkar",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "zmao",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "profmars",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "jlmath",
+        "Courses taught": [
+            "EECS 463",
+            "EECS 698",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Uniqname": "mazum",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "ENGR 600",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "smm",
+        "Courses taught": [
+            "MFG 990",
+            "MFG 995",
+            "EECS 460",
+            "MFG 503"
+        ]
+    },
+    {
+        "Uniqname": "qmei",
+        "Courses taught": [
+            "SIADS 532",
+            "SI 990",
+            "SIADS 696"
+        ]
+    },
+    {
+        "Uniqname": "ztmi",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "emichiel",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "mihalcea",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "morgana",
+        "Courses taught": [
+            "EECS 402"
+        ]
+    },
+    {
+        "Uniqname": "amirm",
+        "Courses taught": [
+            "EECS 411"
+        ]
+    },
+    {
+        "Uniqname": "emilykmp",
+        "Courses taught": [
+            "EECS 492"
+        ]
+    },
+    {
+        "Uniqname": "mozafari",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 484"
+        ]
+    },
+    {
+        "Uniqname": "tnm",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "rajnrao",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "viswa",
+        "Courses taught": [
+            "MATH 660",
+            "IOE 590",
+            "IOE 610",
+            "IOE 995",
+            "IOE 990"
+        ]
+    },
+    {
+        "Uniqname": "najafi",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "ISD 599",
+            "ENGR 600",
+            "EECS 414"
+        ]
+    },
+    {
+        "Uniqname": "kayvan",
+        "Courses taught": [
+            "BIOINF 501",
+            "BIOINF 990",
+            "BIOINF 580",
+            "ENGR 255",
+            "ENGR 355",
+            "BIOINF 995",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "nsatish",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "nuha",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "nebeling",
+        "Courses taught": [
+            "UARTS 560",
+            "UARTS 460",
+            "UARTS 260",
+            "SI 559",
+            "UARTS 360"
+        ]
+    },
+    {
+        "Uniqname": "nees",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "maxsnew",
+        "Courses taught": [
+            "EECS 483"
+        ]
+    },
+    {
+        "Uniqname": "mwnewman",
+        "Courses taught": [
+            "SI 990",
+            "SI 669"
+        ]
+    },
+    {
+        "Uniqname": "jfnielse",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "bnoble",
+        "Courses taught": [
+            "EECS 491"
+        ]
+    },
+    {
+        "Uniqname": "tnorris",
+        "Courses taught": [
+            "APPPHYS 537",
+            "BIOMEDE 990",
+            "EECS 537",
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "ebolson",
+        "Courses taught": [
+            "RAV 503",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "comar",
+        "Courses taught": [
+            "EECS 490"
+        ]
+    },
+    {
+        "Uniqname": "soney",
+        "Courses taught": [
+            "SI 990",
+            "SI 379"
+        ]
+    },
+    {
+        "Uniqname": "ahowens",
+        "Courses taught": [
+            "EECS 442"
+        ]
+    },
+    {
+        "Uniqname": "oymak",
+        "Courses taught": [
+            "EECS 553"
+        ]
+    },
+    {
+        "Uniqname": "necmiye",
+        "Courses taught": [
+            "EECS 200",
+            "EECS 563"
+        ]
+    },
+    {
+        "Uniqname": "pang",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Uniqname": "paoletti",
+        "Courses taught": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Uniqname": "cpeikert",
+        "Courses taught": [
+            "EECS 575"
+        ]
+    },
+    {
+        "Uniqname": "vrncapr",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "blpeters",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 690",
+            "ENGR 600",
+            "MATSCIE 990",
+            "EECS 311"
+        ]
+    },
+    {
+        "Uniqname": "pettie",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 376"
+        ]
+    },
+    {
+        "Uniqname": "jphilli",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "lep",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "pipe",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "MECHENG 490",
+            "ENGR 400",
+            "MECHENG 990",
+            "MECHENG 290",
+            "ENGR 196",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "pradhanv",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 598",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "EECS 455"
+        ]
+    },
+    {
+        "Uniqname": "aprakash",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "qingqu",
+        "Courses taught": [
+            "EECS 453"
+        ]
+    },
+    {
+        "Uniqname": "minar",
+        "Courses taught": [
+            "ENGR 600"
+        ]
+    },
+    {
+        "Uniqname": "scr",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "razak",
+        "Courses taught": [
+            "EECS 489",
+            "EECS 280"
+        ]
+    },
+    {
+        "Uniqname": "pramodr",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MECHENG 495",
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "MECHENG 590",
+            "MECHENG 490",
+            "ESENG 503",
+            "MECHENG 990",
+            "MECHENG 290",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "shrevzen",
+        "Courses taught": [
+            "EECS 464",
+            "ENGR 255",
+            "EECS 698",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "ROB 464"
+        ]
+    },
+    {
+        "Uniqname": "jringenb",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 497",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "drom",
+        "Courses taught": [
+            "SI 705",
+            "SI 301",
+            "SI 990",
+            "SIADS 652"
+        ]
+    },
+    {
+        "Uniqname": "karem",
+        "Courses taught": [
+            "EECS 270"
+        ]
+    },
+    {
+        "Uniqname": "sofias",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Uniqname": "mehdi",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "apsample",
+        "Courses taught": [
+            "EECS 373",
+            "EECS 601"
+        ]
+    },
+    {
+        "Uniqname": "saraband",
+        "Courses taught": [
+            "APPPHYS 530",
+            "EECS 530",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "arsarabi",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "thsa",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "fschaub",
+        "Courses taught": [
+            "SI 699",
+            "SI 990"
+        ]
+    },
+    {
+        "Uniqname": "clayscot",
+        "Courses taught": [
+            "EECS 564",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "jscruggs",
+        "Courses taught": [
+            "CEE 490",
+            "CEE 572",
+            "CEE 910",
+            "CEE 995"
+        ]
+    },
+    {
+        "Uniqname": "pseiler",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "liyues",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Uniqname": "kgshin",
+        "Courses taught": [
+            "MFG 990",
+            "MFG 995",
+            "EECS 571"
+        ]
+    },
+    {
+        "Uniqname": "soloway",
+        "Courses taught": [
+            "EECS 441"
+        ]
+    },
+    {
+        "Uniqname": "stark",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "dst",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "annastef",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "ESENG 503",
+            "MECHENG 990",
+            "ISD 599",
+            "MECHENG 499",
+            "MECHENG 599",
+            "APPPHYS 995",
+            "MECHENG 490",
+            "ENGR 600",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 995",
+            "MECHENG 590",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "qstout",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 587"
+        ]
+    },
+    {
+        "Uniqname": "vgsubram",
+        "Courses taught": [
+            "EECS 301",
+            "EECS 544"
+        ]
+    },
+    {
+        "Uniqname": "jingsun",
+        "Courses taught": [
+            "NAVARCH 990",
+            "MECHENG 995",
+            "MECHENG 590",
+            "NAVARCH 590",
+            "NAVARCH 995",
+            "ESENG 503",
+            "MECHENG 290",
+            "NAVARCH 483",
+            "NAVARCH 592",
+            "NAVARCH 583"
+        ]
+    },
+    {
+        "Uniqname": "dmcs",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "lingjia",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "vtenishe",
+        "Courses taught": [
+            "EECS 471"
+        ]
+    },
+    {
+        "Uniqname": "fredty",
+        "Courses taught": [
+            "MFG 504",
+            "APPPHYS 995",
+            "EECS 215",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "tewaria",
+        "Courses taught": [
+            "STATS 499",
+            "EECS 443",
+            "EECS 698",
+            "MATH 990"
+        ]
+    },
+    {
+        "Uniqname": "agrt",
+        "Courses taught": [
+            "NERS 590",
+            "APPPHYS 995",
+            "NERS 799",
+            "NERS 995",
+            "NERS 990",
+            "NERS 571",
+            "NERS 599",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "NERS 499"
+        ]
+    },
+    {
+        "Uniqname": "tilbury",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 990",
+            "ROB 490",
+            "MFG 503",
+            "MECHENG 490",
+            "MECHENG 290",
+            "MECHENG 995",
+            "RAV 503",
+            "MECHENG 590",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Uniqname": "bentorra",
+        "Courses taught": [
+            "ENGR 190",
+            "EECS 183"
+        ]
+    },
+    {
+        "Uniqname": "leutsang",
+        "Courses taught": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Uniqname": "gtzimpra",
+        "Courses taught": [
+            "EECS 598",
+            "EECS 498"
+        ]
+    },
+    {
+        "Uniqname": "ulaby",
+        "Courses taught": [
+            "CLIMATE 587",
+            "SPACE 587",
+            "EECS 532"
+        ]
+    },
+    {
+        "Uniqname": "avioli",
+        "Courses taught": [
+            "CHE 490",
+            "MECHENG 491",
+            "CHE 995",
+            "MECHENG 995",
+            "MECHENG 695",
+            "CHE 698",
+            "MECHENG 590",
+            "MECHENG 490",
+            "MECHENG 235",
+            "MECHENG 290",
+            "CHE 695",
+            "CHE 990",
+            "MECHENG 990",
+            "CHE 290"
+        ]
+    },
+    {
+        "Uniqname": "wangluxy",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "xwangsd",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 598"
+        ]
+    },
+    {
+        "Uniqname": "xwanghci",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "weimerw",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Uniqname": "welchjd",
+        "Courses taught": [
+            "BIOINF 990",
+            "EECS 598",
+            "BIOINF 995",
+            "BIOINF 593"
+        ]
+    },
+    {
+        "Uniqname": "wellman",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 698"
+        ]
+    },
+    {
+        "Uniqname": "wentzlof",
+        "Courses taught": [
+            "EECS 496"
+        ]
+    },
+    {
+        "Uniqname": "wiensj",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "wlouise",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "arrays",
+        "Courses taught": [
+            "PHYSICS 650",
+            "APPPHYS 995",
+            "APPPHYS 550",
+            "EECS 538",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Uniqname": "winick",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "EECS 554",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Uniqname": "don",
+        "Courses taught": []
+    },
+    {
+        "Uniqname": "wise",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Uniqname": "aey",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Uniqname": "ayarger",
+        "Courses taught": [
+            "EECS 494",
+            "EECS 498",
+            "ENGR 255",
+            "UARTS 150",
+            "ENGR 100",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Uniqname": "leiying",
+        "Courses taught": [
+            "SIADS 644",
+            "EECS 501"
+        ]
+    },
+    {
+        "Uniqname": "esyoon",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "EECS 698",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Uniqname": "stellayu",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 542"
+        ]
+    },
+    {
+        "Uniqname": "peizhang",
+        "Courses taught": [
+            "EECS 507"
+        ]
+    },
+    {
+        "Uniqname": "zhengya",
+        "Courses taught": [
+            "EECS 427"
+        ]
+    },
+    {
+        "Uniqname": "zszh",
+        "Courses taught": [
+            "EECS 434"
+        ]
+    },
+    {
+        "Uniqname": "zzhong",
+        "Courses taught": [
+            "EECS 520"
+        ]
+    }
+]

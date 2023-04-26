@@ -1,0 +1,2843 @@
+[
+    {
+        "Faculty name": "Abbasi Aghdam Meinagh, Fariba",
+        "Email": "fabbasia@umich.edu",
+        "Uniqname": "fabbasia",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Abney, Steven",
+        "Email": "abney@umich.edu",
+        "Uniqname": "abney",
+        "Department": "CSE",
+        "Courses taught": [
+            "COGSCI 445",
+            "LING 445",
+            "LING 495",
+            "LING 780"
+        ]
+    },
+    {
+        "Faculty name": "Ackerman, Mark S.",
+        "Email": "ackerm@umich.edu",
+        "Uniqname": "ackerm",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Adar, Eytan",
+        "Email": "eadar@umich.edu",
+        "Uniqname": "eadar",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 649",
+            "EECS 548",
+            "SIADS 622"
+        ]
+    },
+    {
+        "Faculty name": "Afshari, Ehsan",
+        "Email": "afshari@umich.edu",
+        "Uniqname": "afshari",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Ahmadi, Elaheh",
+        "Email": "eahmadi@umich.edu",
+        "Uniqname": "eahmadi",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Ali, Maha",
+        "Email": "mahali@umich.edu",
+        "Uniqname": "mahali",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 351",
+            "EECS 300"
+        ]
+    },
+    {
+        "Faculty name": "Almomani, Raed",
+        "Email": "almomani@umich.edu",
+        "Uniqname": "almomani",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Faculty name": "Anastasopoulos, Achilleas",
+        "Email": "anastas@umich.edu",
+        "Uniqname": "anastas",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 558",
+            "ENGR 600"
+        ]
+    },
+    {
+        "Faculty name": "Anderson, David J",
+        "Email": "dja@umich.edu",
+        "Uniqname": "dja",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Faculty name": "Arthur, William",
+        "Email": "warthur@umich.edu",
+        "Uniqname": "warthur",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 183"
+        ]
+    },
+    {
+        "Faculty name": "Atkins, Daniel E.",
+        "Email": "atkins@umich.edu",
+        "Uniqname": "atkins",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Austin, Todd",
+        "Email": "austin@umich.edu",
+        "Uniqname": "austin",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 573"
+        ]
+    },
+    {
+        "Faculty name": "Avestruz, Al-Thaddeus",
+        "Email": "avestruz@umich.edu",
+        "Uniqname": "avestruz",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 498",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Faculty name": "Balzano, Laura",
+        "Email": "girasole@umich.edu",
+        "Uniqname": "girasole",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Banovic, Nikola",
+        "Email": "nbanovic@umich.edu",
+        "Uniqname": "nbanovic",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 593"
+        ]
+    },
+    {
+        "Faculty name": "Bansal, Nikhil",
+        "Email": "bansaln@umich.edu",
+        "Uniqname": "bansaln",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Faculty name": "Battel, Steven",
+        "Email": "sbattel@umich.edu",
+        "Uniqname": "sbattel",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Baveja, Satinder Singh",
+        "Email": "baveja@umich.edu",
+        "Uniqname": "baveja",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 443",
+            "EECS 598",
+            "RAV 503"
+        ]
+    },
+    {
+        "Faculty name": "Beaumont, Jonathan",
+        "Email": "jbbeau@umich.edu",
+        "Uniqname": "jbbeau",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 370"
+        ]
+    },
+    {
+        "Faculty name": "Becher, William",
+        "Email": "becher@umich.edu",
+        "Uniqname": "becher",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Bement, Spencer L.",
+        "Email": "spence@umich.edu",
+        "Uniqname": "spence",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Benken, Alexander",
+        "Email": "acbenken@umich.edu",
+        "Uniqname": "acbenken",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Berenson, Dmitry",
+        "Email": "berenson@eecs.umich.edu",
+        "Uniqname": "berenson",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Bertacco, Valeria",
+        "Email": "vale@umich.edu",
+        "Uniqname": "vale",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Beutler, Frederick J.",
+        "Email": "fjb@umich.edu",
+        "Uniqname": "fjb",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Bhattacharya, Pallab",
+        "Email": "pkb@umich.edu",
+        "Uniqname": "pkb",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 529",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Blaauw, David T.",
+        "Email": "blaauw@umich.edu",
+        "Uniqname": "blaauw",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 598",
+            "EECS 628"
+        ]
+    },
+    {
+        "Faculty name": "Bodwin, Greg",
+        "Email": "bodwin@umich.edu",
+        "Uniqname": "bodwin",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 598",
+            "EECS 203"
+        ]
+    },
+    {
+        "Faculty name": "Bondi-Kelly, Elizabeth",
+        "Email": "ecbk@umich.edu",
+        "Uniqname": "ecbk",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Brehob, Mark",
+        "Email": "brehob@umich.edu",
+        "Uniqname": "brehob",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 370",
+            "EECS 473"
+        ]
+    },
+    {
+        "Faculty name": "Budak, Ceren",
+        "Email": "cbudak@umich.edu",
+        "Uniqname": "cbudak",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990"
+        ]
+    },
+    {
+        "Faculty name": "Burdick, Laura",
+        "Email": "lburdick@umich.edu",
+        "Uniqname": "lburdick",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 487"
+        ]
+    },
+    {
+        "Faculty name": "Burgers, Alexander",
+        "Email": "aburgers@umich.edu",
+        "Uniqname": "aburgers",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 428"
+        ]
+    },
+    {
+        "Faculty name": "Cafarella, Michael J.",
+        "Email": "michjc@umich.edu",
+        "Uniqname": "michjc",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Calahan, Donald A.",
+        "Email": "calahand@umich.edu",
+        "Uniqname": "calahand",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Chai, Joyce",
+        "Email": "chaijy@umich.edu",
+        "Uniqname": "chaijy",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 595",
+            "LING 541",
+            "SI 561"
+        ]
+    },
+    {
+        "Faculty name": "Chakraborty, Mithun",
+        "Email": "dcsmc@umich.edu",
+        "Uniqname": "dcsmc",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 592"
+        ]
+    },
+    {
+        "Faculty name": "Chen, Jiasi",
+        "Email": "jiasi@umich.edu",
+        "Uniqname": "jiasi",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 452"
+        ]
+    },
+    {
+        "Faculty name": "Chen, Peter M.",
+        "Email": "pmchen@umich.edu",
+        "Uniqname": "pmchen",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 482"
+        ]
+    },
+    {
+        "Faculty name": "Cheraghchi, Mahdi",
+        "Email": "mahdich@umich.edu",
+        "Uniqname": "mahdich",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 574",
+            "EECS 475"
+        ]
+    },
+    {
+        "Faculty name": "Chesney, David",
+        "Email": "chesneyd@umich.edu",
+        "Uniqname": "chesneyd",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 600",
+            "ENGR 599",
+            "ENGR 455",
+            "EECS 495",
+            "MFG 503"
+        ]
+    },
+    {
+        "Faculty name": "Chestek, Cynthia",
+        "Email": "cchestek@umich.edu",
+        "Uniqname": "cchestek",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "ROB 490",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Faculty name": "Chowdhury, Mosharaf",
+        "Email": "mosharaf@umich.edu",
+        "Uniqname": "mosharaf",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Chuang, Kuei",
+        "Email": "chuang@umich.edu",
+        "Uniqname": "chuang",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Collins-Thompson, Kevyn",
+        "Email": "kevynct@umich.edu",
+        "Uniqname": "kevynct",
+        "Department": "CSE",
+        "Courses taught": [
+            "SIADS 542",
+            "SIADS 696"
+        ]
+    },
+    {
+        "Faculty name": "Compton, Kevin J.",
+        "Email": "kjc@umich.edu",
+        "Uniqname": "kjc",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Conway, Lynn",
+        "Email": "conway@umich.edu",
+        "Uniqname": "conway",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Cook, Jeffrey",
+        "Email": "jeffcook@umich.edu",
+        "Uniqname": "jeffcook",
+        "Department": "ECE",
+        "Courses taught": [
+            "MFG 503"
+        ]
+    },
+    {
+        "Faculty name": "Corso, Jason",
+        "Email": "jjcorso@umich.edu",
+        "Uniqname": "jjcorso",
+        "Department": "ECE",
+        "Courses taught": [
+            "ROB 490",
+            "EECS 443",
+            "ROB 498",
+            "ROB 599",
+            "EECS 698",
+            "EECS 504"
+        ]
+    },
+    {
+        "Faculty name": "Cundiff, Steven",
+        "Email": "cundiff@umich.edu",
+        "Uniqname": "cundiff",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "PHYSICS 402",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Faculty name": "Darden, Marcus",
+        "Email": "mmdarden@umich.edu",
+        "Uniqname": "mmdarden",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 281",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Das, Reetuparna",
+        "Email": "reetudas@umich.edu",
+        "Uniqname": "reetudas",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Davidson, Edward S",
+        "Email": "davidson@umich.edu",
+        "Uniqname": "davidson",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "DeOrio, Andrew W.",
+        "Email": "awdeorio@umich.edu",
+        "Uniqname": "awdeorio",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Faculty name": "Deotare, Parag",
+        "Email": "pdeotare@umich.edu",
+        "Uniqname": "pdeotare",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Derezi\u0144ski, Micha\u0142",
+        "Email": "derezin@umich.edu",
+        "Uniqname": "derezin",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 492"
+        ]
+    },
+    {
+        "Faculty name": "Dhillon, Paramveer",
+        "Email": "dhillonp@umich.edu",
+        "Uniqname": "dhillonp",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "SI 721",
+            "SI 990",
+            "SIADS 642",
+            "SI 671"
+        ]
+    },
+    {
+        "Faculty name": "Diaz, Kimberly Khalsa",
+        "Email": "kkhalsa@umich.edu",
+        "Uniqname": "kkhalsa",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 203"
+        ]
+    },
+    {
+        "Faculty name": "Dick, Robert",
+        "Email": "dickrp@umich.edu",
+        "Uniqname": "dickrp",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Dillahunt, Tawanna Ruth",
+        "Email": "tdillahu@umich.edu",
+        "Uniqname": "tdillahu",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990"
+        ]
+    },
+    {
+        "Faculty name": "Dong, Wanjae",
+        "Email": "wanjaed@umich.edu",
+        "Uniqname": "wanjaed",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Dorf, Mary Lou",
+        "Email": "mdorf@umich.edu",
+        "Uniqname": "mdorf",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Dreslinski, Ronald",
+        "Email": "rdreslin@umich.edu",
+        "Uniqname": "rdreslin",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 470"
+        ]
+    },
+    {
+        "Faculty name": "Du, Xiaoxiao",
+        "Email": "xiaodu@umich.edu",
+        "Uniqname": "xiaodu",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "EECS 467"
+        ]
+    },
+    {
+        "Faculty name": "Durfee, Edmund H.",
+        "Email": "durfee@umich.edu",
+        "Uniqname": "durfee",
+        "Department": "CSE",
+        "Courses taught": [
+            "RAV 503",
+            "ENGR 600"
+        ]
+    },
+    {
+        "Faculty name": "East, Jack R.",
+        "Email": "jeast@umich.edu",
+        "Uniqname": "jeast",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Eid, Aline",
+        "Email": "alineeid@umich.edu",
+        "Uniqname": "alineeid",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "England, Anthony W",
+        "Email": "england@umich.edu",
+        "Uniqname": "england",
+        "Department": "ECE",
+        "Courses taught": [
+            "CLIMATE 499"
+        ]
+    },
+    {
+        "Faculty name": "Ensafi, Roya",
+        "Email": "ensafi@umich.edu",
+        "Uniqname": "ensafi",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 388"
+        ]
+    },
+    {
+        "Faculty name": "Epureanu, Bogdan",
+        "Email": "epureanu@umich.edu",
+        "Uniqname": "epureanu",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "MECHENG 590",
+            "MECHENG 390",
+            "ISD 590",
+            "MECHENG 490",
+            "ESENG 503",
+            "ENGR 600",
+            "MECHENG 290",
+            "MECHENG 990",
+            "DESCI 590"
+        ]
+    },
+    {
+        "Faculty name": "Ericson, Barbara",
+        "Email": "barbarer@umich.edu",
+        "Uniqname": "barbarer",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990",
+            "SI 206"
+        ]
+    },
+    {
+        "Faculty name": "Fessler, Jeffrey A.",
+        "Email": "fessler@umich.edu",
+        "Uniqname": "fessler",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "EECS 551",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Finelli, Cynthia",
+        "Email": "cfinelli@umich.edu",
+        "Uniqname": "cfinelli",
+        "Department": "ECE",
+        "Courses taught": [
+            "EER 490",
+            "EER 601",
+            "EER 690",
+            "EER 990",
+            "EECS 698",
+            "EER 390",
+            "EER 995",
+            "CEE 995"
+        ]
+    },
+    {
+        "Faculty name": "Fish, Benjamin",
+        "Email": "benfish@umich.edu",
+        "Uniqname": "benfish",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Faculty name": "Flautner, Krisztian",
+        "Email": "manowar@umich.edu",
+        "Uniqname": "manowar",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 370"
+        ]
+    },
+    {
+        "Faculty name": "Flynn, Michael P.",
+        "Email": "mpflynn@umich.edu",
+        "Uniqname": "mpflynn",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 413"
+        ]
+    },
+    {
+        "Faculty name": "Forrest, Stephen R.",
+        "Email": "stevefor@umich.edu",
+        "Uniqname": "stevefor",
+        "Department": "ECE",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 490",
+            "APPPHYS 995",
+            "MATSCIE 690",
+            "EECS 320",
+            "MATSCIE 990",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Fouhey, David",
+        "Email": "fouhey@umich.edu",
+        "Uniqname": "fouhey",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 601"
+        ]
+    },
+    {
+        "Faculty name": "Freudenberg, James S.",
+        "Email": "jfr@umich.edu",
+        "Uniqname": "jfr",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 461",
+            "ENGR 600",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Fu, Kevin",
+        "Email": "kevinfu@umich.edu",
+        "Uniqname": "kevinfu",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Galvanauskas, Almantas",
+        "Email": "almantas@umich.edu",
+        "Uniqname": "almantas",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Ganago, Alexander O.",
+        "Email": "ganago@umich.edu",
+        "Uniqname": "ganago",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 314"
+        ]
+    },
+    {
+        "Faculty name": "Garc\u00eda-Ramirez, H\u00e9ctor",
+        "Email": "hjgarcia@umich.edu",
+        "Uniqname": "hjgarcia",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Faculty name": "Garmire, David",
+        "Email": "dgarmire@umich.edu",
+        "Uniqname": "dgarmire",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 312"
+        ]
+    },
+    {
+        "Faculty name": "Genkin, Daniel",
+        "Email": "genkin@umich.edu",
+        "Uniqname": "genkin",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Getty, Ward D.",
+        "Email": "getty@umich.edu",
+        "Uniqname": "getty",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Gianchandani, Yogesh B.",
+        "Email": "yogesh@umich.edu",
+        "Uniqname": "yogesh",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "MFG 995",
+            "MECHENG 490",
+            "ENGR 600",
+            "MECHENG 990",
+            "MFG 503"
+        ]
+    },
+    {
+        "Faculty name": "Giebink, Noel",
+        "Email": "ngiebink@umich.edu",
+        "Uniqname": "ngiebink",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 334"
+        ]
+    },
+    {
+        "Faculty name": "Gilbert, Eric",
+        "Email": "eegg@umich.edu",
+        "Uniqname": "eegg",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990",
+            "SI 307"
+        ]
+    },
+    {
+        "Faculty name": "Gilchrist, Brian E.",
+        "Email": "gilchrst@umich.edu",
+        "Uniqname": "gilchrst",
+        "Department": "ECE",
+        "Courses taught": [
+            "AEROSP 590",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "CLIMATE 990",
+            "CLIMATE 499",
+            "APPPHYS 995",
+            "ENGR 255",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "AEROSP 490",
+            "SPACE 590",
+            "AEROSP 390"
+        ]
+    },
+    {
+        "Faculty name": "Goldman, Rachel S.",
+        "Email": "rsgold@umich.edu",
+        "Uniqname": "rsgold",
+        "Department": "ECE",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 490",
+            "APPPHYS 995",
+            "MATSCIE 280",
+            "MATSCIE 690",
+            "MATSCIE 990",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Gong, Xiwen",
+        "Email": "xwgong@umich.edu",
+        "Uniqname": "xwgong",
+        "Department": "ECE",
+        "Courses taught": [
+            "MATSCIE 995",
+            "CHE 490",
+            "CHE 995",
+            "CHE 698",
+            "EECS 598",
+            "CHE 696",
+            "MATSCIE 593",
+            "CHE 496",
+            "MATSCIE 690",
+            "CHE 695",
+            "CHE 990",
+            "CHE 290",
+            "MATSCIE 990"
+        ]
+    },
+    {
+        "Faculty name": "Graetz, Emily",
+        "Email": "graetzer@umich.edu",
+        "Uniqname": "graetzer",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 203"
+        ]
+    },
+    {
+        "Faculty name": "Grbic, Anthony",
+        "Email": "agrbic@umich.edu",
+        "Uniqname": "agrbic",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 435"
+        ]
+    },
+    {
+        "Faculty name": "Gregg, Robert",
+        "Email": "rdgregg@umich.edu",
+        "Uniqname": "rdgregg",
+        "Department": "ECE",
+        "Courses taught": [
+            "ROB 490"
+        ]
+    },
+    {
+        "Faculty name": "Grubbs, Paul",
+        "Email": "paulgrub@umich.edu",
+        "Uniqname": "paulgrub",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Guo, Anhong",
+        "Email": "anhong@umich.edu",
+        "Uniqname": "anhong",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Guo, L. Jay",
+        "Email": "guo@umich.edu",
+        "Uniqname": "guo",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "APPPHYS 995",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "EECS 421",
+            "MECHENG 490",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 990"
+        ]
+    },
+    {
+        "Faculty name": "Gurevich, Yuri",
+        "Email": "gurevich@umich.edu",
+        "Uniqname": "gurevich",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Guzdial, Mark",
+        "Email": "mjguz@umich.edu",
+        "Uniqname": "mjguz",
+        "Department": "CSE",
+        "Courses taught": [
+            "EER 490",
+            "COMPFOR 121",
+            "EER 690",
+            "EER 990",
+            "SI 990",
+            "EER 390",
+            "EER 995",
+            "COMPFOR 111"
+        ]
+    },
+    {
+        "Faculty name": "Haddad, George I",
+        "Email": "gih@umich.edu",
+        "Uniqname": "gih",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Halderman, J. Alex",
+        "Email": "jhalderm@umich.edu",
+        "Uniqname": "jhalderm",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 388"
+        ]
+    },
+    {
+        "Faculty name": "Hayes, John P.",
+        "Email": "jhayes@umich.edu",
+        "Uniqname": "jhayes",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Hero, Alfred O.",
+        "Email": "hero@umich.edu",
+        "Uniqname": "hero",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Hiskens, Ian A.",
+        "Email": "hiskens@umich.edu",
+        "Uniqname": "hiskens",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 698",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Faculty name": "Hofmann, Heath",
+        "Email": "hofmann@umich.edu",
+        "Uniqname": "hofmann",
+        "Department": "ECE",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 598",
+            "ENGR 355",
+            "ESENG 503",
+            "ENGR 455",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Honeyman, Peter",
+        "Email": "honey@umich.edu",
+        "Uniqname": "honey",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Hou, Bixue",
+        "Email": "houbx@umich.edu",
+        "Uniqname": "houbx",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Hu, Wei",
+        "Email": "vvh@umich.edu",
+        "Uniqname": "vvh",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 445"
+        ]
+    },
+    {
+        "Faculty name": "Huang, Ryan",
+        "Email": "ryanph@umich.edu",
+        "Uniqname": "ryanph",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 582"
+        ]
+    },
+    {
+        "Faculty name": "Islam, Mohammed N.",
+        "Email": "mni@umich.edu",
+        "Uniqname": "mni",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 498",
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Jagadish, H.V.",
+        "Email": "jag@umich.edu",
+        "Uniqname": "jag",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 409"
+        ]
+    },
+    {
+        "Faculty name": "Jain, Dhruv",
+        "Email": "profdj@umich.edu",
+        "Uniqname": "profdj",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Faculty name": "Jamin, Sugih",
+        "Email": "sugih@umich.edu",
+        "Uniqname": "sugih",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 441",
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Jeannin, Jean-Baptiste",
+        "Email": "jeannin@umich.edu",
+        "Uniqname": "jeannin",
+        "Department": "CSE",
+        "Courses taught": [
+            "AEROSP 490",
+            "EECS 443",
+            "AEROSP 590",
+            "AEROSP 995",
+            "AEROSP 552"
+        ]
+    },
+    {
+        "Faculty name": "Jenkins, Chad",
+        "Email": "ocj@umich.edu",
+        "Uniqname": "ocj",
+        "Department": "CSE",
+        "Courses taught": [
+            "ROB 490",
+            "ROB 102"
+        ]
+    },
+    {
+        "Faculty name": "Jenkins, Janice M.",
+        "Email": "jenkins@umich.edu",
+        "Uniqname": "jenkins",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Faculty name": "Jeong, Seok-hyeon",
+        "Email": "seojeong@umich.edu",
+        "Uniqname": "seojeong",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Johnson, Justin",
+        "Email": "justincj@umich.edu",
+        "Uniqname": "justincj",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Juett, James",
+        "Email": "jjuett@umich.edu",
+        "Uniqname": "jjuett",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Faculty name": "Jurgens, David",
+        "Email": "jurgens@umich.edu",
+        "Uniqname": "jurgens",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990",
+            "EECS 549",
+            "SI 650"
+        ]
+    },
+    {
+        "Faculty name": "Kamil, Amir",
+        "Email": "akamil@umich.edu",
+        "Uniqname": "akamil",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Faculty name": "Kanicki, Jerzy",
+        "Email": "kanicki@umich.edu",
+        "Uniqname": "kanicki",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 523",
+            "APPPHYS 995",
+            "EECS 698",
+            "ENGR 600",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "EECS 423"
+        ]
+    },
+    {
+        "Faculty name": "Kapritsos, Manos",
+        "Email": "manosk@umich.edu",
+        "Uniqname": "manosk",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Kasikci, Baris",
+        "Email": "barisk@umich.edu",
+        "Uniqname": "barisk",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Kieras, David E.",
+        "Email": "kieras@umich.edu",
+        "Uniqname": "kieras",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Faculty name": "Kim, Hun-Seok",
+        "Email": "hunseok@umich.edu",
+        "Uniqname": "hunseok",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 598",
+            "UARTS 560",
+            "UARTS 460",
+            "UARTS 260",
+            "UARTS 360"
+        ]
+    },
+    {
+        "Faculty name": "Kira, Mackillo",
+        "Email": "mackkira@umich.edu",
+        "Uniqname": "mackkira",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 540",
+            "EECS 540",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Kloosterman, John",
+        "Email": "jklooste@umich.edu",
+        "Uniqname": "jklooste",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Faculty name": "Koutra, Danai",
+        "Email": "dkoutra@umich.edu",
+        "Uniqname": "dkoutra",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Krushelnick, Karl M.",
+        "Email": "kmkr@umich.edu",
+        "Uniqname": "kmkr",
+        "Department": "ECE",
+        "Courses taught": [
+            "NERS 995",
+            "APPPHYS 995",
+            "NERS 799",
+            "NERS 990",
+            "NERS 599",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "NERS 499"
+        ]
+    },
+    {
+        "Faculty name": "Ku, Pei-Cheng",
+        "Email": "peicheng@umich.edu",
+        "Uniqname": "peicheng",
+        "Department": "ECE",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 100",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "MFG 503"
+        ]
+    },
+    {
+        "Faculty name": "Kuipers, Benjamin",
+        "Email": "kuipers@umich.edu",
+        "Uniqname": "kuipers",
+        "Department": "CSE",
+        "Courses taught": [
+            "ROB 490",
+            "RAV 503"
+        ]
+    },
+    {
+        "Faculty name": "Kurabayashi, Katsuo",
+        "Email": "katsuo@umich.edu",
+        "Uniqname": "katsuo",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "APPPHYS 995",
+            "MECHENG 590",
+            "MECHENG 490",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 990"
+        ]
+    },
+    {
+        "Faculty name": "Kushner, Mark J.",
+        "Email": "mjkush@umich.edu",
+        "Uniqname": "mjkush",
+        "Department": "ECE",
+        "Courses taught": [
+            "NERS 578",
+            "NERS 990",
+            "CHE 490",
+            "APPPHYS 995",
+            "NERS 799",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "CHE 990",
+            "CHE 290",
+            "EECS 517",
+            "CHE 995",
+            "NERS 995",
+            "CHE 698",
+            "CHE 695"
+        ]
+    },
+    {
+        "Faculty name": "Kutty, Sindhu",
+        "Email": "skutty@umich.edu",
+        "Uniqname": "skutty",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "EECS 445",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Lafortune, St\u00e9phane",
+        "Email": "stephane@umich.edu",
+        "Uniqname": "stephane",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 298",
+            "EECS 216"
+        ]
+    },
+    {
+        "Faculty name": "Laird, John E.",
+        "Email": "laird@umich.edu",
+        "Uniqname": "laird",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "RAV 503"
+        ]
+    },
+    {
+        "Faculty name": "Landwehr, Carl",
+        "Email": "celand@umich.edu",
+        "Uniqname": "celand",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Lee, Euiwoong",
+        "Email": "euiwoong@umich.edu",
+        "Uniqname": "euiwoong",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 477"
+        ]
+    },
+    {
+        "Faculty name": "Lee, Honglak",
+        "Email": "honglak@umich.edu",
+        "Uniqname": "honglak",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Lee, Somin Eunice",
+        "Email": "sleee@umich.edu",
+        "Uniqname": "sleee",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "EECS 230",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Li, Yongxi",
+        "Email": "yongxili@umich.edu",
+        "Uniqname": "yongxili",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Liepa, Valdis V.",
+        "Email": "liepa@umich.edu",
+        "Uniqname": "liepa",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Lim, Jaechan",
+        "Email": "jaechan@umich.edu",
+        "Uniqname": "jaechan",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Liu, Jie",
+        "Email": "drjieliu@umich.edu",
+        "Uniqname": "drjieliu",
+        "Department": "CSE",
+        "Courses taught": [
+            "BIOINF 990",
+            "EECS 598",
+            "BIOINF 995",
+            "BIOINF 593"
+        ]
+    },
+    {
+        "Faculty name": "Liu, Mingyan",
+        "Email": "mingyan@umich.edu",
+        "Uniqname": "mingyan",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Faculty name": "Liu, Shuai",
+        "Email": "shualiu@umich.edu",
+        "Uniqname": "shualiu",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Liu, Victor",
+        "Email": "vyl@umich.edu",
+        "Uniqname": "vyl",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Liu, Zhongming",
+        "Email": "zmliu@umich.edu",
+        "Uniqname": "zmliu",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "BIOMEDE 599",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Faculty name": "Lomax, Ronald J.",
+        "Email": "rjl@umich.edu",
+        "Uniqname": "rjl",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Lu, Wei",
+        "Email": "wluee@umich.edu",
+        "Uniqname": "wluee",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Ma, Lin",
+        "Email": "linmacse@umich.edu",
+        "Uniqname": "linmacse",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 584"
+        ]
+    },
+    {
+        "Faculty name": "Madhyastha, Harsha",
+        "Email": "harshavm@umich.edu",
+        "Uniqname": "harshavm",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Mahdavifar, Hessam",
+        "Email": "hessam@umich.edu",
+        "Uniqname": "hessam",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Faculty name": "Mahlke, Scott",
+        "Email": "mahlke@umich.edu",
+        "Uniqname": "mahlke",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Makar, Maggie",
+        "Email": "mmakar@umich.edu",
+        "Uniqname": "mmakar",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Faculty name": "Maksimchuk, Anatoly M.",
+        "Email": "tolya@umich.edu",
+        "Uniqname": "tolya",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Faculty name": "Manerkar, Yatin",
+        "Email": "manerkar@umich.edu",
+        "Uniqname": "manerkar",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Mao, Zhuoqing Morley",
+        "Email": "zmao@umich.edu",
+        "Uniqname": "zmao",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Mars, Jason",
+        "Email": "profmars@umich.edu",
+        "Uniqname": "profmars",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Mathieu, Johanna",
+        "Email": "jlmath@umich.edu",
+        "Uniqname": "jlmath",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 463",
+            "EECS 698",
+            "ESENG 503"
+        ]
+    },
+    {
+        "Faculty name": "Mazumder, Pinaki",
+        "Email": "mazum@umich.edu",
+        "Uniqname": "mazum",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 698",
+            "ENGR 600",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "McAfee, Leo C.",
+        "Email": "lcm@umich.edu",
+        "Uniqname": "lcm",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Meerkov, Semyon M.",
+        "Email": "smm@umich.edu",
+        "Uniqname": "smm",
+        "Department": "ECE",
+        "Courses taught": [
+            "MFG 990",
+            "MFG 995",
+            "EECS 460",
+            "MFG 503"
+        ]
+    },
+    {
+        "Faculty name": "Mei, Qiaozhu",
+        "Email": "qmei@umich.edu",
+        "Uniqname": "qmei",
+        "Department": "CSE",
+        "Courses taught": [
+            "SIADS 532",
+            "SI 990",
+            "SIADS 696"
+        ]
+    },
+    {
+        "Faculty name": "Metzger, Kurt",
+        "Email": "metzger@umich.edu",
+        "Uniqname": "metzger",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Meyer, John F.",
+        "Email": "jfm@umich.edu",
+        "Uniqname": "jfm",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Mi, Zetian",
+        "Email": "ztmi@umich.edu",
+        "Uniqname": "ztmi",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Michielssen, Eric",
+        "Email": "emichiel@umich.edu",
+        "Uniqname": "emichiel",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Mihalcea, Rada",
+        "Email": "mihalcea@umich.edu",
+        "Uniqname": "mihalcea",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Morgan, Andrew",
+        "Email": "morgana@umich.edu",
+        "Uniqname": "morgana",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 402"
+        ]
+    },
+    {
+        "Faculty name": "Mortazawi, Amir",
+        "Email": "amirm@umich.edu",
+        "Uniqname": "amirm",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 411"
+        ]
+    },
+    {
+        "Faculty name": "Mourou, Gerard A.",
+        "Email": "mourou@umich.edu",
+        "Uniqname": "mourou",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Mower Provost, Emily",
+        "Email": "emilykmp@umich.edu",
+        "Uniqname": "emilykmp",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 492"
+        ]
+    },
+    {
+        "Faculty name": "Mozafari, Barzan",
+        "Email": "mozafari@umich.edu",
+        "Uniqname": "mozafari",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 484"
+        ]
+    },
+    {
+        "Faculty name": "Mudge, Trevor",
+        "Email": "tnm@umich.edu",
+        "Uniqname": "tnm",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Nadakuditi, Rajesh Rao",
+        "Email": "rajnrao@umich.edu",
+        "Uniqname": "rajnrao",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Nagarajan, Viswanath",
+        "Email": "viswa@umich.edu",
+        "Uniqname": "viswa",
+        "Department": "CSE",
+        "Courses taught": [
+            "MATH 660",
+            "IOE 590",
+            "IOE 610",
+            "IOE 995",
+            "IOE 990"
+        ]
+    },
+    {
+        "Faculty name": "Najafi, Khalil",
+        "Email": "najafi@umich.edu",
+        "Uniqname": "najafi",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "ISD 599",
+            "ENGR 600",
+            "EECS 414"
+        ]
+    },
+    {
+        "Faculty name": "Najarian, Kayvan",
+        "Email": "kayvan@umich.edu",
+        "Uniqname": "kayvan",
+        "Department": "CSE",
+        "Courses taught": [
+            "BIOINF 501",
+            "BIOINF 990",
+            "BIOINF 580",
+            "ENGR 255",
+            "ENGR 355",
+            "BIOINF 995",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Narayanasamy, Satish",
+        "Email": "nsatish@umich.edu",
+        "Uniqname": "nsatish",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Nashashibi, Adib Y.",
+        "Email": "nuha@umich.edu",
+        "Uniqname": "nuha",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Nebeling, Michael",
+        "Email": "nebeling@umich.edu",
+        "Uniqname": "nebeling",
+        "Department": "CSE",
+        "Courses taught": [
+            "UARTS 560",
+            "UARTS 460",
+            "UARTS 260",
+            "SI 559",
+            "UARTS 360"
+        ]
+    },
+    {
+        "Faculty name": "Nees, John A.",
+        "Email": "nees@umich.edu",
+        "Uniqname": "nees",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Neuhoff, David L.",
+        "Email": "neuhoff@umich.edu",
+        "Uniqname": "neuhoff",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "New, Max",
+        "Email": "maxsnew@umich.edu",
+        "Uniqname": "maxsnew",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 483"
+        ]
+    },
+    {
+        "Faculty name": "Newman, Mark W",
+        "Email": "mwnewman@umich.edu",
+        "Uniqname": "mwnewman",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990",
+            "SI 669"
+        ]
+    },
+    {
+        "Faculty name": "Nguyen, Long",
+        "Email": "xuanlong@umich.edu",
+        "Uniqname": "xuanlong",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Nielsen, Jon-Fredrik",
+        "Email": "jfnielse@umich.edu",
+        "Uniqname": "jfnielse",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 590",
+            "BIOMEDE 995",
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Noble, Brian",
+        "Email": "bnoble@umich.edu",
+        "Uniqname": "bnoble",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 491"
+        ]
+    },
+    {
+        "Faculty name": "Norris, Theodore B.",
+        "Email": "tnorris@umich.edu",
+        "Uniqname": "tnorris",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 537",
+            "BIOMEDE 990",
+            "EECS 537",
+            "APPPHYS 995",
+            "EECS 698",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Olson, Edwin",
+        "Email": "ebolson@umich.edu",
+        "Uniqname": "ebolson",
+        "Department": "CSE",
+        "Courses taught": [
+            "RAV 503",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Omar, Cyrus",
+        "Email": "comar@umich.edu",
+        "Uniqname": "comar",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 490"
+        ]
+    },
+    {
+        "Faculty name": "Oney, Stephen",
+        "Email": "soney@umich.edu",
+        "Uniqname": "soney",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 990",
+            "SI 379"
+        ]
+    },
+    {
+        "Faculty name": "Owens, Andrew",
+        "Email": "ahowens@umich.edu",
+        "Uniqname": "ahowens",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 442"
+        ]
+    },
+    {
+        "Faculty name": "Oymak, Samet",
+        "Email": "oymak@umich.edu",
+        "Uniqname": "oymak",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 553"
+        ]
+    },
+    {
+        "Faculty name": "Ozay, Necmiye",
+        "Email": "necmiye@umich.edu",
+        "Uniqname": "necmiye",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 200",
+            "EECS 563"
+        ]
+    },
+    {
+        "Faculty name": "Pang, Stella W.",
+        "Email": "pang@umich.edu",
+        "Uniqname": "pang",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Faculty name": "Paoletti, David Robert",
+        "Email": "paoletti@umich.edu",
+        "Uniqname": "paoletti",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Faculty name": "Pavlidis, Dimitris",
+        "Email": "pavlidis@umich.edu",
+        "Uniqname": "pavlidis",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Peikert, Christopher",
+        "Email": "cpeikert@umich.edu",
+        "Uniqname": "cpeikert",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 575"
+        ]
+    },
+    {
+        "Faculty name": "Pendse, Ravi",
+        "Email": "rpendse@umich.edu",
+        "Uniqname": "rpendse",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Perez-Rosas, Veronica",
+        "Email": "vrncapr@umich.edu",
+        "Uniqname": "vrncapr",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Peterson, Becky (R.L.)",
+        "Email": "blpeters@umich.edu",
+        "Uniqname": "blpeters",
+        "Department": "ECE",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MATSCIE 690",
+            "ENGR 600",
+            "MATSCIE 990",
+            "EECS 311"
+        ]
+    },
+    {
+        "Faculty name": "Pettie, Seth",
+        "Email": "pettie@umich.edu",
+        "Uniqname": "pettie",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 376"
+        ]
+    },
+    {
+        "Faculty name": "Phillips, Jamie D.",
+        "Email": "jphilli@umich.edu",
+        "Uniqname": "jphilli",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Pierce, Leland E.",
+        "Email": "lep@umich.edu",
+        "Uniqname": "lep",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Pipe, Kevin Patrick",
+        "Email": "pipe@umich.edu",
+        "Uniqname": "pipe",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 995",
+            "MECHENG 590",
+            "EECS 698",
+            "MECHENG 490",
+            "ENGR 400",
+            "MECHENG 990",
+            "MECHENG 290",
+            "ENGR 196",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Pradhan, S. Sandeep",
+        "Email": "pradhanv@umich.edu",
+        "Uniqname": "pradhanv",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "EECS 598",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "EECS 455"
+        ]
+    },
+    {
+        "Faculty name": "Prakash, Atul",
+        "Email": "aprakash@umich.edu",
+        "Uniqname": "aprakash",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Qin, Yutao",
+        "Email": "yutaoqin@umich.edu",
+        "Uniqname": "yutaoqin",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Qu, Qing",
+        "Email": "qingqu@umich.edu",
+        "Uniqname": "qingqu",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 453"
+        ]
+    },
+    {
+        "Faculty name": "Rais-Zadeh, Mina",
+        "Email": "minar@umich.edu",
+        "Uniqname": "minar",
+        "Department": "ECE",
+        "Courses taught": [
+            "ENGR 600"
+        ]
+    },
+    {
+        "Faculty name": "Rand, Stephen",
+        "Email": "scr@umich.edu",
+        "Uniqname": "scr",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Razak, Saquib",
+        "Email": "razak@umich.edu",
+        "Uniqname": "razak",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 489",
+            "EECS 280"
+        ]
+    },
+    {
+        "Faculty name": "Reddy, Pramod Sangi",
+        "Email": "pramodr@umich.edu",
+        "Uniqname": "pramodr",
+        "Department": "ECE",
+        "Courses taught": [
+            "MATSCIE 995",
+            "MECHENG 495",
+            "MECHENG 491",
+            "MECHENG 995",
+            "MECHENG 695",
+            "MECHENG 590",
+            "MECHENG 490",
+            "ESENG 503",
+            "MECHENG 990",
+            "MECHENG 290",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Revzen, Shai",
+        "Email": "shrevzen@umich.edu",
+        "Uniqname": "shrevzen",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 464",
+            "ENGR 255",
+            "EECS 698",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455",
+            "ROB 464"
+        ]
+    },
+    {
+        "Faculty name": "Ribbens, William B.",
+        "Email": "ribbens@umich.edu",
+        "Uniqname": "ribbens",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Ringenberg, Jeffrey S.",
+        "Email": "jringenb@umich.edu",
+        "Uniqname": "jringenb",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 255",
+            "EECS 497",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Romero, Daniel",
+        "Email": "drom@umich.edu",
+        "Uniqname": "drom",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 705",
+            "SI 301",
+            "SI 990",
+            "SIADS 652"
+        ]
+    },
+    {
+        "Faculty name": "Rounds, Bill",
+        "Email": "rounds@umich.edu",
+        "Uniqname": "rounds",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Sakallah, Karem A.",
+        "Email": "karem@umich.edu",
+        "Uniqname": "karem",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 270"
+        ]
+    },
+    {
+        "Faculty name": "Saleem, Sofia",
+        "Email": "sofias@umich.edu",
+        "Uniqname": "sofias",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Faculty name": "Saligane, Mehdi",
+        "Email": "mehdi@umich.edu",
+        "Uniqname": "mehdi",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Sample, Alanson",
+        "Email": "apsample@umich.edu",
+        "Uniqname": "apsample",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 373",
+            "EECS 601"
+        ]
+    },
+    {
+        "Faculty name": "Sarabandi, Kamal",
+        "Email": "saraband@umich.edu",
+        "Uniqname": "saraband",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 530",
+            "EECS 530",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Sarabi, Armin",
+        "Email": "arsarabi@umich.edu",
+        "Uniqname": "arsarabi",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Saranurak, Thatchaphol",
+        "Email": "thsa@umich.edu",
+        "Uniqname": "thsa",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Schaub, Florian",
+        "Email": "fschaub@umich.edu",
+        "Uniqname": "fschaub",
+        "Department": "CSE",
+        "Courses taught": [
+            "SI 699",
+            "SI 990"
+        ]
+    },
+    {
+        "Faculty name": "Scott, Clayton D",
+        "Email": "clayscot@umich.edu",
+        "Uniqname": "clayscot",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 564",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Scruggs, Jeffrey",
+        "Email": "jscruggs@umich.edu",
+        "Uniqname": "jscruggs",
+        "Department": "ECE",
+        "Courses taught": [
+            "CEE 490",
+            "CEE 572",
+            "CEE 910",
+            "CEE 995"
+        ]
+    },
+    {
+        "Faculty name": "Seiler, Peter",
+        "Email": "pseiler@umich.edu",
+        "Uniqname": "pseiler",
+        "Department": "ECE",
+        "Courses taught": [
+            "ENGR 255",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Shen, Liyue",
+        "Email": "liyues@stanford.edu",
+        "Uniqname": "liyues",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 598"
+        ]
+    },
+    {
+        "Faculty name": "Shin, Kang G.",
+        "Email": "kgshin@umich.edu",
+        "Uniqname": "kgshin",
+        "Department": "ECE",
+        "Courses taught": [
+            "MFG 990",
+            "MFG 995",
+            "EECS 571"
+        ]
+    },
+    {
+        "Faculty name": "Singh, Jasprit",
+        "Email": "singh@umich.edu",
+        "Uniqname": "singh",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Smith, Matthew",
+        "Email": "matsmith@umich.edu",
+        "Uniqname": "matsmith",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Soloway, Elliot",
+        "Email": "soloway@umich.edu",
+        "Uniqname": "soloway",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 441"
+        ]
+    },
+    {
+        "Faculty name": "Stark, Wayne E.",
+        "Email": "stark@umich.edu",
+        "Uniqname": "stark",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Steel, Duncan",
+        "Email": "dst@umich.edu",
+        "Uniqname": "dst",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Stefanopoulou, Anna",
+        "Email": "annastef@umich.edu",
+        "Uniqname": "annastef",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "ESENG 503",
+            "MECHENG 990",
+            "ISD 599",
+            "MECHENG 499",
+            "MECHENG 599",
+            "APPPHYS 995",
+            "MECHENG 490",
+            "ENGR 600",
+            "MECHENG 290",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "MECHENG 995",
+            "MECHENG 590",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Stout, Quentin F.",
+        "Email": "qstout@umich.edu",
+        "Uniqname": "qstout",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 587"
+        ]
+    },
+    {
+        "Faculty name": "Subramanian, Vijay",
+        "Email": "vgsubram@umich.edu",
+        "Uniqname": "vgsubram",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 301",
+            "EECS 544"
+        ]
+    },
+    {
+        "Faculty name": "Sun, Jing",
+        "Email": "jingsun@umich.edu",
+        "Uniqname": "jingsun",
+        "Department": "ECE",
+        "Courses taught": [
+            "NAVARCH 990",
+            "MECHENG 995",
+            "MECHENG 590",
+            "NAVARCH 590",
+            "NAVARCH 995",
+            "ESENG 503",
+            "MECHENG 290",
+            "NAVARCH 483",
+            "NAVARCH 592",
+            "NAVARCH 583"
+        ]
+    },
+    {
+        "Faculty name": "Sylvester, Dennis",
+        "Email": "dmcs@umich.edu",
+        "Uniqname": "dmcs",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Talati, Nishil",
+        "Email": "talatin@umich.edu",
+        "Uniqname": "talatin",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Tang, Lingjia",
+        "Email": "lingjia@umich.edu",
+        "Uniqname": "lingjia",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Tang, Wei",
+        "Email": "weitang@umich.edu",
+        "Uniqname": "weitang",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Teneketzis, Demosthenis",
+        "Email": "teneket@umich.edu",
+        "Uniqname": "teneket",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Tenishev, Valeriy",
+        "Email": "vtenishe@umich.edu",
+        "Uniqname": "vtenishe",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 471"
+        ]
+    },
+    {
+        "Faculty name": "Teorey, Toby",
+        "Email": "teorey@umich.edu",
+        "Uniqname": "teorey",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Terry, Fred",
+        "Email": "fredty@umich.edu",
+        "Uniqname": "fredty",
+        "Department": "ECE",
+        "Courses taught": [
+            "MFG 504",
+            "APPPHYS 995",
+            "EECS 215",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Tewari, Ambuj",
+        "Email": "tewaria@umich.edu",
+        "Uniqname": "tewaria",
+        "Department": "CSE",
+        "Courses taught": [
+            "STATS 499",
+            "EECS 443",
+            "EECS 698",
+            "MATH 990"
+        ]
+    },
+    {
+        "Faculty name": "Thomas, Alexander",
+        "Email": "agrt@umich.edu",
+        "Uniqname": "agrt",
+        "Department": "ECE",
+        "Courses taught": [
+            "NERS 590",
+            "APPPHYS 995",
+            "NERS 799",
+            "NERS 995",
+            "NERS 990",
+            "NERS 571",
+            "NERS 599",
+            "APPPHYS 990",
+            "APPPHYS 715",
+            "NERS 499"
+        ]
+    },
+    {
+        "Faculty name": "Thomason, Richmond H.",
+        "Email": "rich@thomason.org",
+        "Uniqname": "rich",
+        "Department": "CSE"
+    },
+    {
+        "Faculty name": "Tilbury, Dawn",
+        "Email": "tilbury@umich.edu",
+        "Uniqname": "tilbury",
+        "Department": "ECE",
+        "Courses taught": [
+            "MECHENG 491",
+            "MECHENG 695",
+            "MECHENG 990",
+            "ROB 490",
+            "MFG 503",
+            "MECHENG 490",
+            "MECHENG 290",
+            "MECHENG 995",
+            "RAV 503",
+            "MECHENG 590",
+            "AUTO 503"
+        ]
+    },
+    {
+        "Faculty name": "Torralva, Ben",
+        "Email": "bentorra@umich.edu",
+        "Uniqname": "bentorra",
+        "Department": "CSE",
+        "Courses taught": [
+            "ENGR 190",
+            "EECS 183"
+        ]
+    },
+    {
+        "Faculty name": "Tsang, Leung",
+        "Email": "leutsang@umich.edu",
+        "Uniqname": "leutsang",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Faculty name": "Tzimpragos, Georgios",
+        "Email": "gtzimpra@umich.edu",
+        "Uniqname": "gtzimpra",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 598",
+            "EECS 498"
+        ]
+    },
+    {
+        "Faculty name": "Ulaby, Fawwaz T.",
+        "Email": "ulaby@umich.edu",
+        "Uniqname": "ulaby",
+        "Department": "ECE",
+        "Courses taught": [
+            "CLIMATE 587",
+            "SPACE 587",
+            "EECS 532"
+        ]
+    },
+    {
+        "Faculty name": "Violi, Angela",
+        "Email": "avioli@umich.edu",
+        "Uniqname": "avioli",
+        "Department": "ECE",
+        "Courses taught": [
+            "CHE 490",
+            "MECHENG 491",
+            "CHE 995",
+            "MECHENG 995",
+            "MECHENG 695",
+            "CHE 698",
+            "MECHENG 590",
+            "MECHENG 490",
+            "MECHENG 235",
+            "MECHENG 290",
+            "CHE 695",
+            "CHE 990",
+            "MECHENG 990",
+            "CHE 290"
+        ]
+    },
+    {
+        "Faculty name": "Wang, Ding",
+        "Email": "dinwan@umich.edu",
+        "Uniqname": "dinwan",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Wang, Lu",
+        "Email": "wangluxy@umich.edu",
+        "Uniqname": "wangluxy",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Wang, Xinyu",
+        "Email": "xwangsd@umich.edu",
+        "Uniqname": "xwangsd",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 498",
+            "EECS 598"
+        ]
+    },
+    {
+        "Faculty name": "Wang, Xu",
+        "Email": "xwanghci@umich.edu",
+        "Uniqname": "xwanghci",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Weimer, Westley",
+        "Email": "weimerw@umich.edu",
+        "Uniqname": "weimerw",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443"
+        ]
+    },
+    {
+        "Faculty name": "Welch, Joshua",
+        "Email": "welchjd@umich.edu",
+        "Uniqname": "welchjd",
+        "Department": "CSE",
+        "Courses taught": [
+            "BIOINF 990",
+            "EECS 598",
+            "BIOINF 995",
+            "BIOINF 593"
+        ]
+    },
+    {
+        "Faculty name": "Wellman, Michael",
+        "Email": "wellman@umich.edu",
+        "Uniqname": "wellman",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 698"
+        ]
+    },
+    {
+        "Faculty name": "Wentzloff, David D.",
+        "Email": "wentzlof@umich.edu",
+        "Uniqname": "wentzlof",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 496"
+        ]
+    },
+    {
+        "Faculty name": "Wiens, Jenna",
+        "Email": "wiensj@umich.edu",
+        "Uniqname": "wiensj",
+        "Department": "CSE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Willingale, Louise",
+        "Email": "wlouise@umich.edu",
+        "Uniqname": "wlouise",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 995",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Winful, Herbert",
+        "Email": "arrays@umich.edu",
+        "Uniqname": "arrays",
+        "Department": "ECE",
+        "Courses taught": [
+            "PHYSICS 650",
+            "APPPHYS 995",
+            "APPPHYS 550",
+            "EECS 538",
+            "APPPHYS 990",
+            "APPPHYS 715"
+        ]
+    },
+    {
+        "Faculty name": "Winick, Kim A.",
+        "Email": "winick@umich.edu",
+        "Uniqname": "winick",
+        "Department": "ECE",
+        "Courses taught": [
+            "APPPHYS 715",
+            "APPPHYS 995",
+            "EECS 554",
+            "APPPHYS 990"
+        ]
+    },
+    {
+        "Faculty name": "Winsor, Don",
+        "Email": "don@umich.edu",
+        "Uniqname": "don",
+        "Department": "ECE",
+        "Courses taught": []
+    },
+    {
+        "Faculty name": "Wise, Kensall D.",
+        "Email": "wise@umich.edu",
+        "Uniqname": "wise",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Faculty name": "Wu, Yuanpeng",
+        "Email": "ypwu@umich.edu",
+        "Uniqname": "ypwu",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Yagle, Andrew E",
+        "Email": "aey@umich.edu",
+        "Uniqname": "aey",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 995",
+            "BIOMEDE 990",
+            "BIOMEDE 590"
+        ]
+    },
+    {
+        "Faculty name": "Yarger, Austin",
+        "Email": "ayarger@umich.edu",
+        "Uniqname": "ayarger",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 494",
+            "EECS 498",
+            "ENGR 255",
+            "UARTS 150",
+            "ENGR 100",
+            "ENGR 355",
+            "ENGR 599",
+            "ENGR 455"
+        ]
+    },
+    {
+        "Faculty name": "Ying, Lei",
+        "Email": "leiying@umich.edu",
+        "Uniqname": "leiying",
+        "Department": "ECE",
+        "Courses taught": [
+            "SIADS 644",
+            "EECS 501"
+        ]
+    },
+    {
+        "Faculty name": "Yoon, Euisik",
+        "Email": "esyoon@umich.edu",
+        "Uniqname": "esyoon",
+        "Department": "ECE",
+        "Courses taught": [
+            "BIOMEDE 990",
+            "BIOMEDE 995",
+            "BIOMEDE 590",
+            "EECS 698",
+            "BIOMEDE 490"
+        ]
+    },
+    {
+        "Faculty name": "Young, Steven",
+        "Email": "yms@umich.edu",
+        "Uniqname": "yms",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Yu, Stella",
+        "Email": "stellayu@umich.edu",
+        "Uniqname": "stellayu",
+        "Department": "CSE",
+        "Courses taught": [
+            "EECS 443",
+            "EECS 542"
+        ]
+    },
+    {
+        "Faculty name": "Zhang, Pei",
+        "Email": "peizhang@umich.edu",
+        "Uniqname": "peizhang",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 507"
+        ]
+    },
+    {
+        "Faculty name": "Zhang, Zhengya",
+        "Email": "zhengya@umich.edu",
+        "Uniqname": "zhengya",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 427"
+        ]
+    },
+    {
+        "Faculty name": "Zhang, Zheshen",
+        "Email": "zszh@umich.edu",
+        "Uniqname": "zszh",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 434"
+        ]
+    },
+    {
+        "Faculty name": "Zhong, Zhaohui",
+        "Email": "zzhong@umich.edu",
+        "Uniqname": "zzhong",
+        "Department": "ECE",
+        "Courses taught": [
+            "EECS 520"
+        ]
+    },
+    {
+        "Faculty name": "Zhou, Peng",
+        "Email": "dpzhou@umich.edu",
+        "Uniqname": "dpzhou",
+        "Department": "ECE"
+    },
+    {
+        "Faculty name": "Zhu, Leqi",
+        "Email": "lezhu@umich.edu",
+        "Uniqname": "lezhu",
+        "Department": "CSE"
+    }
+]

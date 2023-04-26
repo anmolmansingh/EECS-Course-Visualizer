@@ -1,0 +1,1419 @@
+[
+    {
+        "Course code": "EECS 180",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 198",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 200",
+        "Prerequisite code": [
+            "ENGR 100",
+            "ENGR 101",
+            "ENGR 151",
+            "EECS 180",
+            "EECS 280",
+            "EECS 215"
+        ]
+    },
+    {
+        "Course code": "EECS 201",
+        "Prerequisite code": [
+            "EECS 180",
+            "EECS 183",
+            "ENGR 101",
+            "ENGR 151",
+            "ROB 102",
+            "EECS 280",
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 203",
+        "Prerequisite code": [
+            "MATH 115",
+            "EECS 203"
+        ]
+    },
+    {
+        "Course code": "EECS 215",
+        "Prerequisite code": [
+            "MATH 116",
+            "ENGR 101",
+            "EECS 180",
+            "EECS 280",
+            "PHYSICS 240"
+        ]
+    },
+    {
+        "Course code": "EECS 216",
+        "Prerequisite code": [
+            "EECS 215",
+            "EECS 314",
+            "BIOMEDE 211",
+            "MATH 216"
+        ]
+    },
+    {
+        "Course code": "EECS 230",
+        "Prerequisite code": [
+            "MATH 215",
+            "PHYSICS 240",
+            "EECS 215"
+        ]
+    },
+    {
+        "Course code": "EECS 250",
+        "Prerequisite code": [
+            "EECS 230",
+            "PHYSICS 240"
+        ]
+    },
+    {
+        "Course code": "EECS 270",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 280",
+        "Prerequisite code": [
+            "ENGR 101",
+            "ENGR 151",
+            "EECS 180",
+            "EECS 183",
+            "ROB 102",
+            "EECS 280"
+        ]
+    },
+    {
+        "Course code": "EECS 281",
+        "Prerequisite code": [
+            "EECS 203",
+            "EECS 280"
+        ]
+    },
+    {
+        "Course code": "EECS 285",
+        "Prerequisite code": [
+            "EECS 280"
+        ]
+    },
+    {
+        "Course code": "EECS 298",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 300",
+        "Prerequisite code": [
+            "EECS 200"
+        ]
+    },
+    {
+        "Course code": "EECS 301",
+        "Prerequisite code": [
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 311",
+        "Prerequisite code": [
+            "EECS 215",
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 312",
+        "Prerequisite code": [
+            "EECS 215"
+        ]
+    },
+    {
+        "Course code": "EECS 314",
+        "Prerequisite code": [
+            "MATH 214",
+            "MATH 216",
+            "PHYSICS 240",
+            "EECS 215",
+            "EECS 314"
+        ]
+    },
+    {
+        "Course code": "EECS 320",
+        "Prerequisite code": [
+            "EECS 215",
+            "PHYSICS 240"
+        ]
+    },
+    {
+        "Course code": "EECS 330",
+        "Prerequisite code": [
+            "EECS 230"
+        ]
+    },
+    {
+        "Course code": "EECS 334",
+        "Prerequisite code": [
+            "PHYSICS 240",
+            "EECS 334",
+            "PHYSICS 402"
+        ]
+    },
+    {
+        "Course code": "EECS 351",
+        "Prerequisite code": [
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 367",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "ROB 101"
+        ]
+    },
+    {
+        "Course code": "EECS 370",
+        "Prerequisite code": [
+            "EECS 203",
+            "EECS 270",
+            "EECS 280"
+        ]
+    },
+    {
+        "Course code": "EECS 373",
+        "Prerequisite code": [
+            "EECS 270",
+            "EECS 370"
+        ]
+    },
+    {
+        "Course code": "EECS 376",
+        "Prerequisite code": [
+            "EECS 280",
+            "EECS 203"
+        ]
+    },
+    {
+        "Course code": "EECS 388",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 390",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 398",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 399",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 402",
+        "Prerequisite code": [
+            "EECS 180",
+            "EECS 183",
+            "ENGR 101",
+            "ENGR 151",
+            "EECS 280",
+            "EECS 282"
+        ]
+    },
+    {
+        "Course code": "EECS 403",
+        "Prerequisite code": [
+            "EECS 402",
+            "EECS 203",
+            "MATH 403"
+        ]
+    },
+    {
+        "Course code": "EECS 410",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 411",
+        "Prerequisite code": [
+            "EECS 311",
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 413",
+        "Prerequisite code": [
+            "EECS 311",
+            "EECS 320"
+        ]
+    },
+    {
+        "Course code": "EECS 414",
+        "Prerequisite code": [
+            "MATH 215",
+            "MATH 216",
+            "PHYSICS 240"
+        ]
+    },
+    {
+        "Course code": "EECS 417",
+        "Prerequisite code": [
+            "EECS 215",
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 418",
+        "Prerequisite code": [
+            "EECS 215",
+            "EECS 216",
+            "EECS 320"
+        ]
+    },
+    {
+        "Course code": "EECS 419",
+        "Prerequisite code": [
+            "PHYS 240",
+            "PHYS 260",
+            "EECS 215",
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 421",
+        "Prerequisite code": [
+            "EECS 320"
+        ]
+    },
+    {
+        "Course code": "EECS 423",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 425",
+        "Prerequisite code": [
+            "EECS 311",
+            "EECS 312",
+            "EECS 414"
+        ]
+    },
+    {
+        "Course code": "EECS 427",
+        "Prerequisite code": [
+            "EECS 270",
+            "EECS 312"
+        ]
+    },
+    {
+        "Course code": "EECS 428",
+        "Prerequisite code": [
+            "PHYSICS 240",
+            "MATH 215",
+            "MATH 216"
+        ]
+    },
+    {
+        "Course code": "EECS 429",
+        "Prerequisite code": [
+            "EECS 320"
+        ]
+    },
+    {
+        "Course code": "EECS 430",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 434",
+        "Prerequisite code": [
+            "EECS 330",
+            "EECS 334"
+        ]
+    },
+    {
+        "Course code": "EECS 435",
+        "Prerequisite code": [
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 438",
+        "Prerequisite code": [
+            "EECS 334",
+            "EECS 434"
+        ]
+    },
+    {
+        "Course code": "EECS 440",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 441",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 442",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "MATH 217",
+            "MATH 296",
+            "MATH 417",
+            "MATH 419",
+            "ROB 101",
+            "EECS 442",
+            "EECS 504"
+        ]
+    },
+    {
+        "Course code": "EECS 443",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 444",
+        "Prerequisite code": [
+            "EECS 301",
+            "MATH 425",
+            "STATS 425",
+            "EECS 444",
+            "EECS 544"
+        ]
+    },
+    {
+        "Course code": "EECS 445",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "ROB 101"
+        ]
+    },
+    {
+        "Course code": "EECS 448",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "MATH 217",
+            "MATH 296",
+            "MATH 417",
+            "MATH 419",
+            "ROB 101"
+        ]
+    },
+    {
+        "Course code": "EECS 449",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 452",
+        "Prerequisite code": [
+            "EECS 280",
+            "EECS 351",
+            "EECS 455"
+        ]
+    },
+    {
+        "Course code": "EECS 453",
+        "Prerequisite code": [
+            "EECS 280",
+            "STATS 250",
+            "STATS 280",
+            "STATS 412",
+            "STATS 426",
+            "EECS 301",
+            "IOE 265",
+            "TO 301",
+            "EECS 351",
+            "MATH 214",
+            "MATH 217",
+            "MATH 296",
+            "MATH 417",
+            "MATH 419",
+            "ROB 101"
+        ]
+    },
+    {
+        "Course code": "EECS 455",
+        "Prerequisite code": [
+            "EECS 216",
+            "EECS 301"
+        ]
+    },
+    {
+        "Course code": "EECS 456",
+        "Prerequisite code": [
+            "EECS 300",
+            "EECS 270"
+        ]
+    },
+    {
+        "Course code": "EECS 458",
+        "Prerequisite code": [
+            "EECS 215",
+            "EECS 314"
+        ]
+    },
+    {
+        "Course code": "EECS 460",
+        "Prerequisite code": [
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 461",
+        "Prerequisite code": [
+            "EECS 216",
+            "EECS 373"
+        ]
+    },
+    {
+        "Course code": "EECS 463",
+        "Prerequisite code": [
+            "PHYS 240",
+            "PHYS 260",
+            "EECS 215",
+            "EECS 216"
+        ]
+    },
+    {
+        "Course code": "EECS 464",
+        "Prerequisite code": [
+            "EECS 216",
+            "EECS 281",
+            "ME 360",
+            "CEE 212",
+            "IOE 333"
+        ]
+    },
+    {
+        "Course code": "EECS 465",
+        "Prerequisite code": [
+            "EECS 280",
+            "MATH 215"
+        ]
+    },
+    {
+        "Course code": "EECS 467",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "MATH 217",
+            "MATH 296",
+            "MATH 417",
+            "MATH 419",
+            "ROB 101",
+            "EECS 367",
+            "EECS 373"
+        ]
+    },
+    {
+        "Course code": "EECS 470",
+        "Prerequisite code": [
+            "EECS 370",
+            "EECS 270"
+        ]
+    },
+    {
+        "Course code": "EECS 471",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 370"
+        ]
+    },
+    {
+        "Course code": "EECS 473",
+        "Prerequisite code": [
+            "EECS 373",
+            "EECS 215",
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 475",
+        "Prerequisite code": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Course code": "EECS 476",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "MATH 217",
+            "MATH 296",
+            "MATH 417",
+            "MATH 419",
+            "ROB 101",
+            "EECS 403"
+        ]
+    },
+    {
+        "Course code": "EECS 477",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 376",
+            "EECS 586"
+        ]
+    },
+    {
+        "Course code": "EECS 478",
+        "Prerequisite code": [
+            "EECS 203",
+            "EECS 270"
+        ]
+    },
+    {
+        "Course code": "EECS 480",
+        "Prerequisite code": [
+            "EECS 485"
+        ]
+    },
+    {
+        "Course code": "EECS 481",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 482",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 370"
+        ]
+    },
+    {
+        "Course code": "EECS 483",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 370"
+        ]
+    },
+    {
+        "Course code": "EECS 484",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 403"
+        ]
+    },
+    {
+        "Course code": "EECS 485",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 486",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 487",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 487",
+            "EECS 595"
+        ]
+    },
+    {
+        "Course code": "EECS 489",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 370"
+        ]
+    },
+    {
+        "Course code": "EECS 490",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 491",
+        "Prerequisite code": [
+            "EECS 482"
+        ]
+    },
+    {
+        "Course code": "EECS 492",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 493",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 494",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 495",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 496",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 497",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 498",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 499",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 500",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 501",
+        "Prerequisite code": [
+            "EECS 301"
+        ]
+    },
+    {
+        "Course code": "EECS 502",
+        "Prerequisite code": [
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 503",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 504",
+        "Prerequisite code": [
+            "EECS 442",
+            "EECS 504"
+        ]
+    },
+    {
+        "Course code": "EECS 505",
+        "Prerequisite code": [
+            "EECS 301",
+            "MATH 425",
+            "STATS 250",
+            "STATS 412",
+            "STATS 426",
+            "IOE 265"
+        ]
+    },
+    {
+        "Course code": "EECS 506",
+        "Prerequisite code": [
+            "EECS 418"
+        ]
+    },
+    {
+        "Course code": "EECS 507",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 508",
+        "Prerequisite code": [
+            "EECS 418"
+        ]
+    },
+    {
+        "Course code": "EECS 510",
+        "Prerequisite code": [
+            "EECS 414"
+        ]
+    },
+    {
+        "Course code": "EECS 511",
+        "Prerequisite code": [
+            "EECS 413"
+        ]
+    },
+    {
+        "Course code": "EECS 512",
+        "Prerequisite code": [
+            "EECS 421"
+        ]
+    },
+    {
+        "Course code": "EECS 513",
+        "Prerequisite code": [
+            "EECS 423",
+            "EECS 512"
+        ]
+    },
+    {
+        "Course code": "EECS 514",
+        "Prerequisite code": [
+            "EECS 414"
+        ]
+    },
+    {
+        "Course code": "EECS 515",
+        "Prerequisite code": [
+            "EECS 414"
+        ]
+    },
+    {
+        "Course code": "EECS 516",
+        "Prerequisite code": [
+            "EECS 351"
+        ]
+    },
+    {
+        "Course code": "EECS 517",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 518",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 519",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 520",
+        "Prerequisite code": [
+            "PHYSICS 453"
+        ]
+    },
+    {
+        "Course code": "EECS 521",
+        "Prerequisite code": [
+            "EECS 421"
+        ]
+    },
+    {
+        "Course code": "EECS 522",
+        "Prerequisite code": [
+            "EECS 413"
+        ]
+    },
+    {
+        "Course code": "EECS 523",
+        "Prerequisite code": [
+            "EECS 423",
+            "EECS 425",
+            "EECS 311",
+            "EECS 320"
+        ]
+    },
+    {
+        "Course code": "EECS 524",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 525",
+        "Prerequisite code": [
+            "EECS 411",
+            "EECS 421",
+            "EECS 521"
+        ]
+    },
+    {
+        "Course code": "EECS 526",
+        "Prerequisite code": [
+            "EECS 230",
+            "PHYSICS 240"
+        ]
+    },
+    {
+        "Course code": "EECS 528",
+        "Prerequisite code": [
+            "EECS 421",
+            "EECS 423"
+        ]
+    },
+    {
+        "Course code": "EECS 529",
+        "Prerequisite code": [
+            "EECS 429"
+        ]
+    },
+    {
+        "Course code": "EECS 530",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 531",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 532",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 533",
+        "Prerequisite code": [
+            "EECS 330"
+        ]
+    },
+    {
+        "Course code": "EECS 534",
+        "Prerequisite code": [
+            "EECS 463"
+        ]
+    },
+    {
+        "Course code": "EECS 535",
+        "Prerequisite code": [
+            "EECS 463"
+        ]
+    },
+    {
+        "Course code": "EECS 536",
+        "Prerequisite code": [
+            "EECS 463"
+        ]
+    },
+    {
+        "Course code": "EECS 537",
+        "Prerequisite code": [
+            "EECS 330",
+            "EECS 334"
+        ]
+    },
+    {
+        "Course code": "EECS 538",
+        "Prerequisite code": [
+            "EECS 434"
+        ]
+    },
+    {
+        "Course code": "EECS 539",
+        "Prerequisite code": [
+            "EECS 537",
+            "EECS 538"
+        ]
+    },
+    {
+        "Course code": "EECS 540",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 541",
+        "Prerequisite code": [
+            "EECS 540"
+        ]
+    },
+    {
+        "Course code": "EECS 542",
+        "Prerequisite code": [
+            "EECS 442",
+            "EECS 504"
+        ]
+    },
+    {
+        "Course code": "CSE 543",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 544",
+        "Prerequisite code": [
+            "EECS 301",
+            "MATH 425",
+            "STATS 425",
+            "EECS 444",
+            "EECS 544"
+        ]
+    },
+    {
+        "Course code": "EECS 545",
+        "Prerequisite code": [
+            "EECS 445"
+        ]
+    },
+    {
+        "Course code": "EECS 546",
+        "Prerequisite code": [
+            "EECS 537"
+        ]
+    },
+    {
+        "Course code": "EECS 547",
+        "Prerequisite code": [
+            "EECS 281",
+            "SI 502"
+        ]
+    },
+    {
+        "Course code": "EECS 548",
+        "Prerequisite code": [
+            "EECS 493"
+        ]
+    },
+    {
+        "Course code": "EECS 549",
+        "Prerequisite code": [
+            "SI 507",
+            "SI 507",
+            "SI 508"
+        ]
+    },
+    {
+        "Course code": "EECS 550",
+        "Prerequisite code": [
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 551",
+        "Prerequisite code": [
+            "EECS 351"
+        ]
+    },
+    {
+        "Course code": "EECS 552",
+        "Prerequisite code": [
+            "EECS 334",
+            "EECS 429",
+            "EECS 434",
+            "EECS 529",
+            "EECS 537",
+            "EECS 538",
+            "EECS 539"
+        ]
+    },
+    {
+        "Course code": "EECS 553",
+        "Prerequisite code": [
+            "EECS 501",
+            "EECS 551",
+            "EECS 553",
+            "EECS 545"
+        ]
+    },
+    {
+        "Course code": "EECS 554",
+        "Prerequisite code": [
+            "EECS 216",
+            "EECS 301"
+        ]
+    },
+    {
+        "Course code": "EECS 555",
+        "Prerequisite code": [
+            "EECS 501",
+            "EECS 554"
+        ]
+    },
+    {
+        "Course code": "EECS 556",
+        "Prerequisite code": [
+            "EECS 501",
+            "EECS 453",
+            "EECS 551"
+        ]
+    },
+    {
+        "Course code": "EECS 557",
+        "Prerequisite code": [
+            "EECS 301",
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 558",
+        "Prerequisite code": [
+            "EECS 501",
+            "EECS 560"
+        ]
+    },
+    {
+        "Course code": "EECS 559",
+        "Prerequisite code": [
+            "EECS 551",
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 560",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 561",
+        "Prerequisite code": [
+            "EECS 460",
+            "MECHENG 461"
+        ]
+    },
+    {
+        "Course code": "EECS 562",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 563",
+        "Prerequisite code": [
+            "EECS 562",
+            "EECS 560"
+        ]
+    },
+    {
+        "Course code": "EECS 564",
+        "Prerequisite code": [
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 565",
+        "Prerequisite code": [
+            "EECS 460",
+            "AEROSP 348",
+            "MECHENG 461",
+            "AEROSP 550",
+            "EECS 560"
+        ]
+    },
+    {
+        "Course code": "EECS 566",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 567",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 568",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 570",
+        "Prerequisite code": [
+            "EECS 470"
+        ]
+    },
+    {
+        "Course code": "EECS 571",
+        "Prerequisite code": [
+            "EECS 470",
+            "EECS 482"
+        ]
+    },
+    {
+        "Course code": "EECS 572",
+        "Prerequisite code": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Course code": "EECS 573",
+        "Prerequisite code": [
+            "EECS 470"
+        ]
+    },
+    {
+        "Course code": "EECS 574",
+        "Prerequisite code": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Course code": "EECS 575",
+        "Prerequisite code": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Course code": "EECS 576",
+        "Prerequisite code": [
+            "EECS 281",
+            "MATH 214",
+            "ROB 101",
+            "STATS 412",
+            "MATH 425"
+        ]
+    },
+    {
+        "Course code": "EECS 578",
+        "Prerequisite code": [
+            "EECS 470"
+        ]
+    },
+    {
+        "Course code": "EECS 579",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 582",
+        "Prerequisite code": [
+            "EECS 482"
+        ]
+    },
+    {
+        "Course code": "EECS 583",
+        "Prerequisite code": [
+            "EECS 281",
+            "EECS 483"
+        ]
+    },
+    {
+        "Course code": "EECS 584",
+        "Prerequisite code": [
+            "EECS 484"
+        ]
+    },
+    {
+        "Course code": "EECS 586",
+        "Prerequisite code": [
+            "EECS 376"
+        ]
+    },
+    {
+        "Course code": "EECS 587",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 588",
+        "Prerequisite code": [
+            "EECS 482",
+            "EECS 489"
+        ]
+    },
+    {
+        "Course code": "EECS 589",
+        "Prerequisite code": [
+            "EECS 489"
+        ]
+    },
+    {
+        "Course code": "EECS 590",
+        "Prerequisite code": [
+            "EECS 281"
+        ]
+    },
+    {
+        "Course code": "EECS 591",
+        "Prerequisite code": [
+            "EECS 482"
+        ]
+    },
+    {
+        "Course code": "EECS 592",
+        "Prerequisite code": [
+            "EECS 492",
+            "EECS 592"
+        ]
+    },
+    {
+        "Course code": "EECS 593",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 595",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 596",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 597",
+        "Prerequisite code": [
+            "EECS 380",
+            "SI 503",
+            "LING 541"
+        ]
+    },
+    {
+        "Course code": "EECS 598",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 599",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 600",
+        "Prerequisite code": [
+            "MATH 419"
+        ]
+    },
+    {
+        "Course code": "EECS 601",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 602",
+        "Prerequisite code": [
+            "EECS 501"
+        ]
+    },
+    {
+        "Course code": "EECS 605",
+        "Prerequisite code": [
+            "EECS 505"
+        ]
+    },
+    {
+        "Course code": "EECS 620",
+        "Prerequisite code": [
+            "EECS 520",
+            "EECS 540"
+        ]
+    },
+    {
+        "Course code": "EECS 627",
+        "Prerequisite code": [
+            "EECS 427"
+        ]
+    },
+    {
+        "Course code": "EECS 628",
+        "Prerequisite code": [
+            "EECS 627"
+        ]
+    },
+    {
+        "Course code": "EECS 631",
+        "Prerequisite code": [
+            "EECS 530"
+        ]
+    },
+    {
+        "Course code": "EECS 633",
+        "Prerequisite code": [
+            "EECS 530"
+        ]
+    },
+    {
+        "Course code": "EECS 634",
+        "Prerequisite code": [
+            "EECS 537",
+            "EECS 538",
+            "EECS 530"
+        ]
+    },
+    {
+        "Course code": "EECS 638",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 643",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 644",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 650",
+        "Prerequisite code": [
+            "EECS 501",
+            "MATH 419"
+        ]
+    },
+    {
+        "Course code": "EECS 659",
+        "Prerequisite code": [
+            "EECS 564"
+        ]
+    },
+    {
+        "Course code": "EECS 662",
+        "Prerequisite code": [
+            "EECS 562",
+            "MECHENG 548"
+        ]
+    },
+    {
+        "Course code": "EECS 670",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 692",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 695",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 698",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 699",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 700",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 720",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 730",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 735",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 750",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 755",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 760",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 765",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 820",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 990",
+        "Prerequisite code": []
+    },
+    {
+        "Course code": "EECS 995",
+        "Prerequisite code": []
+    }
+]

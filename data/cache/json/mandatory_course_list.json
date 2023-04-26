@@ -1,0 +1,1119 @@
+[
+    {
+        "Course code": "EECS 411",
+        "Course credits": "4",
+        "Mandatory for": [
+            "EM",
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 413",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 414",
+        "Course credits": "4",
+        "Mandatory for": [
+            "MM"
+        ],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 417",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 418",
+        "Course credits": "4",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": [
+            "IC",
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 419",
+        "Course credits": "4",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 421",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "IC",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 423",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "IC",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 425",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES",
+            "MM"
+        ],
+        "Advisor approval for": [
+            "IC",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 427",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 428",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 429",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 430",
+        "Course credits": "4",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 434",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 438",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP"
+        ]
+    },
+    {
+        "Course code": "EECS 442",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CV",
+            "ES",
+            "RO"
+        ]
+    },
+    {
+        "Course code": "EECS 444",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 452",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 453",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 455",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CM"
+        ]
+    },
+    {
+        "Course code": "EECS 458",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 460",
+        "Course credits": "4",
+        "Mandatory for": [
+            "CT",
+            "IC"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 461",
+        "Course credits": "4",
+        "Mandatory for": [
+            "CT",
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 463",
+        "Course credits": "4",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 464",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 470",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 473",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 477",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 478",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 480",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 495",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 497",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 498",
+        "Course credits": "1-4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CM",
+            "CT",
+            "CV",
+            "EM",
+            "ES",
+            "IC",
+            "MM",
+            "OP",
+            "PE",
+            "RO",
+            "SP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 501",
+        "Course credits": "4",
+        "Mandatory for": [
+            "CM",
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CT",
+            "CV"
+        ]
+    },
+    {
+        "Course code": "EECS 502",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM",
+            "SP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 503",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 504",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CV",
+            "SP"
+        ],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 505",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES"
+        ],
+        "Advisor approval for": [
+            "CM",
+            "CV",
+            "SP"
+        ]
+    },
+    {
+        "Course code": "EECS 509",
+        "Course credits": "3",
+        "Mandatory for": [
+            "MM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 510",
+        "Course credits": "4",
+        "Mandatory for": [
+            "EM",
+            "MM"
+        ],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 511",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 512",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 513",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 514",
+        "Course credits": "4",
+        "Mandatory for": [
+            "MM"
+        ],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 515",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES",
+            "MM"
+        ],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 516",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 517",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": [
+            "MM",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 518",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 519",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 520",
+        "Course credits": "4",
+        "Mandatory for": [
+            "SS"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 521",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SS"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 522",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 523",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 525",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": [
+            "IC",
+            "MM",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 526",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM",
+            "OP"
+        ],
+        "Advisor approval for": [
+            "MM",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 528",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "MM",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 529",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 530",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 531",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 532",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 533",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 534",
+        "Course credits": "3",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 535",
+        "Course credits": "3",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 536",
+        "Course credits": "3",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 537",
+        "Course credits": "3",
+        "Mandatory for": [
+            "OP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 538",
+        "Course credits": "3",
+        "Mandatory for": [
+            "OP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 539",
+        "Course credits": "3",
+        "Mandatory for": [
+            "OP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 540",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 541",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 542",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CV"
+        ],
+        "Advisor approval for": [
+            "SP"
+        ]
+    },
+    {
+        "Course code": "EECS 544",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 545",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CV"
+        ]
+    },
+    {
+        "Course code": "EECS 546",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP"
+        ]
+    },
+    {
+        "Course code": "EECS 550",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM"
+        ],
+        "Advisor approval for": [
+            "ES",
+            "SP"
+        ]
+    },
+    {
+        "Course code": "EECS 551",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES",
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CM",
+            "CV"
+        ]
+    },
+    {
+        "Course code": "EECS 552",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CM",
+            "OP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 553",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CV"
+        ]
+    },
+    {
+        "Course code": "EECS 554",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 555",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CM"
+        ]
+    },
+    {
+        "Course code": "EECS 556",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CV"
+        ]
+    },
+    {
+        "Course code": "EECS 557",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 558",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM",
+            "CT"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 559",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 560",
+        "Course credits": "4",
+        "Mandatory for": [
+            "CT"
+        ],
+        "Advisor approval for": [
+            "PE"
+        ]
+    },
+    {
+        "Course code": "EECS 561",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CT",
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 562",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CT"
+        ],
+        "Advisor approval for": [
+            "PE"
+        ]
+    },
+    {
+        "Course code": "EECS 563",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CT"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 564",
+        "Course credits": "3",
+        "Mandatory for": [
+            "ES",
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CM",
+            "CT"
+        ]
+    },
+    {
+        "Course code": "EECS 565",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CT",
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 566",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CT",
+            "ES"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 567",
+        "Course credits": "3",
+        "Mandatory for": [
+            "ES",
+            "RO"
+        ],
+        "Advisor approval for": [
+            "CT"
+        ]
+    },
+    {
+        "Course code": "EECS 568",
+        "Course credits": "4",
+        "Mandatory for": [
+            "ES"
+        ],
+        "Advisor approval for": [
+            "CV",
+            "RO"
+        ]
+    },
+    {
+        "Course code": "EECS 569",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 570",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 571",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 573",
+        "Course credits": "3",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 598",
+        "Course credits": "1-4",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": [
+            "CM",
+            "CT",
+            "CV",
+            "ES",
+            "IC",
+            "MM",
+            "OP",
+            "PE",
+            "RO",
+            "SP",
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 599",
+        "Course credits": "1-4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 600",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": [
+            "CT"
+        ]
+    },
+    {
+        "Course code": "EECS 620",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "EECS 627",
+        "Course credits": "4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 628",
+        "Course credits": "3-4",
+        "Mandatory for": [
+            "IC"
+        ],
+        "Advisor approval for": [
+            "MM"
+        ]
+    },
+    {
+        "Course code": "EECS 631",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 632",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 633",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 634",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "EM",
+            "OP"
+        ]
+    },
+    {
+        "Course code": "EECS 638",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "OP"
+        ]
+    },
+    {
+        "Course code": "EECS 650",
+        "Course credits": "3",
+        "Mandatory for": [
+            "CM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 659",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SP"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 661",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 662",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CT"
+        ]
+    },
+    {
+        "Course code": "EECS 698",
+        "Course credits": "1-6",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 699",
+        "Course credits": "1-6",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 755",
+        "Course credits": "1-4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SP"
+        ]
+    },
+    {
+        "Course code": "EECS 990",
+        "Course credits": "1-4",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 995",
+        "Course credits": "8",
+        "Mandatory for": [],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "PHYS 453",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SS"
+        ]
+    },
+    {
+        "Course code": "ROB 501",
+        "Course credits": "3",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "CV",
+            "RO"
+        ]
+    },
+    {
+        "Course code": "ROB 550",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "ES",
+            "RO"
+        ]
+    },
+    {
+        "Course code": "EECS 507",
+        "Course credits": "3-4",
+        "Mandatory for": [
+            "ES"
+        ],
+        "Advisor approval for": [
+            "IC"
+        ]
+    },
+    {
+        "Course code": "EECS 730",
+        "Course credits": "3",
+        "Mandatory for": [
+            "EM"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 506",
+        "Course credits": "3",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 508",
+        "Course credits": "3",
+        "Mandatory for": [
+            "PE"
+        ],
+        "Advisor approval for": []
+    },
+    {
+        "Course code": "EECS 467",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "ES"
+        ]
+    },
+    {
+        "Course code": "EECS 605",
+        "Course credits": "4",
+        "Mandatory for": [],
+        "Advisor approval for": [
+            "SP"
+        ]
+    },
+    {
+        "Course code": "EECS 524",
+        "Course credits": "3",
+        "Mandatory for": [
+            "SS"
+        ],
+        "Advisor approval for": []
+    }
+]

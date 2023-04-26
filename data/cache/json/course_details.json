@@ -1,0 +1,1352 @@
+[
+        {
+            "Course code": "EECS 110",
+            "Course title": "Discover Computer Science",
+            "Course Prerequisites": "Enforced Prerequisite: None. (2 credits).",
+            "Course link": "https://atlas.ai.umich.edu/course/EECS%20110/"
+        },
+    {
+        "Course code": "EECS 180",
+        "Course title": "Exam/Transfer Introductory Computer Programming Credit",
+        "Course Prerequisites": "Cannot receive credit if student has credit for EECS 183 or ENGR 101 or ENGR 151 (3-4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20180/"
+    },
+    {
+        "Course code": "EECS 183",
+        "Course title": "Elementary Programming Concepts",
+        "Course Prerequisites": "Prerequisite: None. (Credit for only one: EECS 180, EECS 183, ENGR 101 or ENGR 151) (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20183/"
+    },
+    {
+        "Course code": "EECS 198",
+        "Course title": "Special Topics",
+        "Course Prerequisites": "Advisory Prerequisite: Permission of instructor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20198/"
+    },
+    {
+        "Course code": "EECS 200",
+        "Course title": "Electrical Engineering Systems Design I",
+        "Course Prerequisites": "Advisory Prerequisite: ENGR 100 or ENGR 101 or ENGR 151 or EECS 180 or EECS 280. Preceded or accompanied by: EECS 215 Minimum grade of \u201cC\u201d for advised prerequisites. (2",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20200/"
+    },
+    {
+        "Course code": "EECS 201",
+        "Course title": "Computer Science Pragmatics",
+        "Course Prerequisites": "Prerequisite: EECS 180 or EECS 183 or ENGR 101 or ENGR 151 or ROB 102 or preceded or accompanied by (EECS 280 or EECS 281). Minimum grade of \u201cC\u201d required for enforced prerequisites. (1 credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20201/"
+    },
+    {
+        "Course code": "EECS 203",
+        "Course title": "Discrete Mathematics",
+        "Course Prerequisites": "Enforced Prerequisite: (MATH 115 or 116 or 119 or 120 or 121 or 156 or 175 or 176 or 185 or 186 or 214 or 215 or 216 or 217 or 255 or 256 or 285 or 286 or 295 or 296 or 417 or 419). Minimum grade of C required for enforced prerequisites. \u00a0(4 credits) [Fewer than two previous elections of EECS 203 (incl. grades of W.I, VI, and AUD)]",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20203/"
+    },
+    {
+        "Course code": "EECS 215",
+        "Course title": "Introduction to Electronic Circuits",
+        "Course Prerequisites": "Prerequisite: (MATH 116 or 121 or 156) and (ENGR 101 or 151 or EECS 180 or 183 or preceded or accompanied by EECS 280) and (preceded or accompanied by: PHYSICS 240 or 260); (C or better, No OP/F)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20215/"
+    },
+    {
+        "Course code": "EECS 216",
+        "Course title": "Introduction to Signals and Systems",
+        "Course Prerequisites": "Prerequisite: EECS 215 or EECS 314 or BIOMEDE 211. Advisory Prerequisite- Preceded or accompanied by MATH 216. (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20216/"
+    },
+    {
+        "Course code": "EECS 230",
+        "Course title": "Electromagnetics I",
+        "Course Prerequisites": "Prerequisite: (MATH 215 and PHYSICS 240; C or better, No OP/F) or (Co-requisite: EECS 215; C or better, No OP/F). (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20230/"
+    },
+    {
+        "Course code": "EECS 250",
+        "Course title": "Electronic Sensing Systems",
+        "Course Prerequisites": "Prerequisite: Preceded or accompanied by EECS 230 or PHYSICS 240. (3 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20250/"
+    },
+    {
+        "Course code": "EECS 270",
+        "Course title": "Introduction to Logic Design",
+        "Course Prerequisites": "Prerequisite:",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20270/"
+    },
+    {
+        "Course code": "EECS 280",
+        "Course title": "Programming and Introductory Data Structures",
+        "Course Prerequisites": "Prerequisite: ENGR 101 or ENGR 151 or EECS 180 or EECS 183 or ROB 102. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits) [Fewer than two previous elections of EECS 280 (incl. grades of W.I, VI, and AUD)]",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20280/"
+    },
+    {
+        "Course code": "EECS 281",
+        "Course title": "Data Structures and Algorithms",
+        "Course Prerequisites": "Prerequisite: (EECS 203 or Math 465 or Math 565) and EECS 280. Minimum grade of \u201cC\u201d required for enforced prerequisites. Advisory Prerequisite: Minimum GPA of 2.5 over the best grade for each enforced prerequisite. (4 credits) [(EECS 203 or MATH 465 or 565) and EECS 280; (C or better, NO OP/F)] and [Fewer than two previous elections of EECS 281 (incl. grades of W, I, VI, and AUD)]",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20281/"
+    },
+    {
+        "Course code": "EECS 285",
+        "Course title": "Practical Programming in Java",
+        "Course Prerequisites": "Prerequisite: EECS 280. Minimum grade of C required for enforced prerequisites. (2 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20285/"
+    },
+    {
+        "Course code": "EECS 298",
+        "Course title": "Special Topics",
+        "Course Prerequisites": "Advisory Prerequisite: Permission of instructor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20298/"
+    },
+    {
+        "Course code": "EECS 300",
+        "Course title": "Electrical Engineering Systems Design II",
+        "Course Prerequisites": "Prerequisite: EECS 200, at least 3 of 4 (215, 216, 230, 280), Co-requisite EECS: 4th of 4 (215, 216, 230, 280) Minimum grade of C required for enforced prerequisites. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20300/"
+    },
+    {
+        "Course code": "EECS 301",
+        "Course title": "Probabilistic Methods in Engineering",
+        "Course Prerequisites": "Advisory Prerequisite: Preceded or accompanied by EECS 216. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20301/"
+    },
+    {
+        "Course code": "EECS 311",
+        "Course title": "Analog Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 215 and EECS 216. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20311/"
+    },
+    {
+        "Course code": "EECS 312",
+        "Course title": "Digital Integrated Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 215 and Math 216. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20312/"
+    },
+    {
+        "Course code": "EECS 314",
+        "Course title": "Electrical Circuits, Systems, and Applications",
+        "Course Prerequisites": "Prerequisite: MATH 214 or MATH 216, PHYSICS 240. Credit for only one: EECS 215, or EECS 314. Not open to CE or EE students. (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20314/"
+    },
+    {
+        "Course code": "EECS 320",
+        "Course title": "Introduction to Semiconductor Devices",
+        "Course Prerequisites": "Prerequisite: EECS 215 and PHYSICS 240 or 260. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20320/"
+    },
+    {
+        "Course code": "EECS 330",
+        "Course title": "Introduction to Antennas and Wireless Systems",
+        "Course Prerequisites": "Prerequisite: EECS 230. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20330/"
+    },
+    {
+        "Course code": "EECS 334",
+        "Course title": "Principles of Optics",
+        "Course Prerequisites": "Prerequisite: PHYSICS 240. A student can receive credit for only one: EECS 334 or PHYSICS 402. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20334/"
+    },
+    {
+        "Course code": "EECS 351",
+        "Course title": "Introduction to Digital Signal Processing",
+        "Course Prerequisites": "Prerequisite: EECS 216. Minimum grade of C for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20351/"
+    },
+    {
+        "Course code": "EECS 367",
+        "Course title": "Introduction to Autonomous Robotics",
+        "Course Prerequisites": "Prerequisite: EECS 281 and (MATH 214 or 217 or 296 or 417 or 419, or ROB 101; (No OP/F). Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20367/"
+    },
+    {
+        "Course code": "EECS 370",
+        "Course title": "Introduction to Computer Organization",
+        "Course Prerequisites": "Prerequisite: (EECS 203 or Math 465 or Math 565 or EECS 270) and EECS 280. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20370/"
+    },
+    {
+        "Course code": "EECS 373",
+        "Course title": "Introduction to Embedded System Design",
+        "Course Prerequisites": "Prerequisite: EECS 270 and EECS 370 and junior standing or higher. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20373/"
+    },
+    {
+        "Course code": "EECS 376",
+        "Course title": "Foundations of Computer Science",
+        "Course Prerequisites": "Prerequisite: EECS 280 and (EECS 203 or Math 465 or Math 565). Minimum grade of C required for enforced prerequisites. (4 credits).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20376/"
+    },
+    {
+        "Course code": "EECS 388",
+        "Course title": "Introduction to Computer Security",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F). Enrollment in one minor elective allowed for Computer Science Minors",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20388/"
+    },
+    {
+        "Course code": "EECS 390",
+        "Course title": "Programming Paradigms",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F). Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20390/"
+    },
+    {
+        "Course code": "EECS 398",
+        "Course title": "Special Topics",
+        "Course Prerequisites": "Advisory Prerequisite: permission of instructor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20398/"
+    },
+    {
+        "Course code": "EECS 399",
+        "Course title": "Directed Study",
+        "Course Prerequisites": "Prerequisite: Sophomore or Junior Standing, and Permission of Instructor",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20399/"
+    },
+    {
+        "Course code": "EECS 402",
+        "Course title": "Computer Programming For Scientists and Engineers",
+        "Course Prerequisites": "Prerequisite: Graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequisites.\u00a0(4 credits) (May not be taken if student has credit for or is currently enrolled in EECS 180, EECS 183, ENGR 101, ENGR 151, EECS 280 or EECS 282.)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20402/"
+    },
+    {
+        "Course code": "EECS 403",
+        "Course title": "Graduate Foundations of Data Structures and Algorithms",
+        "Course Prerequisites": "Prerequisite: Graduate Standing and [EECS 402 and (EECS 203 or MATH 403 or 465 or 565); (C or better; No OP/F)] Minimum grade of \u201cC\u201d required for enforced prerequisites.\u00a0(4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20403/"
+    },
+    {
+        "Course code": "EECS 406",
+        "Course title": "High-Tech Entrepreneurship",
+        "Course Prerequisites": "Prerequisite: None. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20406/"
+    },
+    {
+        "Course code": "EECS 409",
+        "Course title": "Data Science Seminar",
+        "Course Prerequisites": "Prerequisite: None. (1 credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20409/"
+    },
+    {
+        "Course code": "EECS 410",
+        "Course title": "Patent Fundamentals for Engineers",
+        "Course Prerequisites": "Prerequisite: (Junior or senior standing) or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20410/"
+    },
+    {
+        "Course code": "EECS 411",
+        "Course title": "Microwave Circuits I",
+        "Course Prerequisites": "Prerequisite: EECS 311 or EECS 330, or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20411/"
+    },
+    {
+        "Course code": "EECS 413",
+        "Course title": "Monolithic Amplifier Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 311 and EECS 320 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20413/"
+    },
+    {
+        "Course code": "EECS 414",
+        "Course title": "Introduction to MEMS",
+        "Course Prerequisites": "Prerequisite: MATH 215 and MATH 216 and PHYSICS 240 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20414/"
+    },
+    {
+        "Course code": "EECS 417",
+        "Course title": "Electrical Biophysics",
+        "Course Prerequisites": "Prerequisite: EECS 215 and EECS 216 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20417/"
+    },
+    {
+        "Course code": "EECS 418",
+        "Course title": "Power Electronics",
+        "Course Prerequisites": "Prerequisite: (EECS 215 and EECS 216 and preceded or accompanied by EECS 320) or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20418/"
+    },
+    {
+        "Course code": "EECS 419",
+        "Course title": "Electric Machinery and Drives",
+        "Course Prerequisites": "Prerequisite: ((PHYS 240 or PHYS 260) and EECS 215 and EECS 216) or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20419/"
+    },
+    {
+        "Course code": "EECS 421",
+        "Course title": "Properties of Transistors",
+        "Course Prerequisites": "Prerequisite: EECS 320 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20421/"
+    },
+    {
+        "Course code": "EECS 423",
+        "Course title": "Micro/Nano Device Fabrication and Characterization",
+        "Course Prerequisites": "Prerequisite: Senior undergraduate or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20423/"
+    },
+    {
+        "Course code": "EECS 425",
+        "Course title": "Integrated Microsystems Laboratory",
+        "Course Prerequisites": "Prerequisite: EECS 311 or EECS 312 or EECS 414 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20425/"
+    },
+    {
+        "Course code": "EECS 427",
+        "Course title": "VLSI Design I",
+        "Course Prerequisites": "Prerequisite: (EECS 270 and EECS 312) or graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20427/"
+    },
+    {
+        "Course code": "EECS 428",
+        "Course title": "Introduction to Quantum Nanotechnology",
+        "Course Prerequisites": "Advisory Prerequisite: PHYSICS 240, MATH 215, MATH 216. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20428/"
+    },
+    {
+        "Course code": "EECS 429",
+        "Course title": "Semiconductor Optoelectronic Devices",
+        "Course Prerequisites": "Prerequisite: EECS 320 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20429/"
+    },
+    {
+        "Course code": "EECS 430",
+        "Course title": "Wireless Link Design",
+        "Course Prerequisites": "Prerequisite: EECS 330 (\u201cC\u201d or better) or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20430/"
+    },
+    {
+        "Course code": "EECS 434",
+        "Course title": "Principles of Photonics",
+        "Course Prerequisites": "Prerequisite: EECS 330 or EECS 334 or permission of instructor or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20434/"
+    },
+    {
+        "Course code": "EECS 435",
+        "Course title": "Fourier Optics",
+        "Course Prerequisites": "Prerequisite: EECS 216. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20435/"
+    },
+    {
+        "Course code": "EECS 438",
+        "Course title": "Advanced Lasers and Optics Laboratory",
+        "Course Prerequisites": "Prerequisite: EECS 334 or EECS 434 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20438/"
+    },
+    {
+        "Course code": "EECS 440",
+        "Course title": "System Design of a Search Engine",
+        "Course Prerequisites": "Prerequisite: EECS 281 (\u201cC\u201d or better). (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20440/"
+    },
+    {
+        "Course code": "EECS 441",
+        "Course title": "Mobile App Development for Entrepreneurs",
+        "Course Prerequisites": "Prerequisite: Senior standing, EECS 281, and at least four credit hours of Upper Level Electives from list in either Computer Science or Computer Engineering. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20441/"
+    },
+    {
+        "Course code": "EECS 442",
+        "Course title": "Computer Vision",
+        "Course Prerequisites": "Prerequisite: [(EECS 281 and (MATH 214 or MATH 217 or MATH 296 or MATH 417 or MATH 419, or ROB 101)); (C or better, No OP/F)] or graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequsites. (4 credits) (Credit cannot be obtained for both EECS 442 and EECS 504.)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20442/"
+    },
+    {
+        "Course code": "EECS 443",
+        "Course title": "Senior Thesis",
+        "Course Prerequisites": "Prerequisite: Senior standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20443/"
+    },
+    {
+        "Course code": "EECS 444",
+        "Course title": "Analysis of Societal Networks",
+        "Course Prerequisites": "Prerequisite: EECS 301 or MATH 425 or STATS 425. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits) (Credit cannot be obtained for both EECS 444 and EECS 544.)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20444/."
+    },
+    {
+        "Course code": "EECS 445",
+        "Course title": "Introduction to Machine Learning",
+        "Course Prerequisites": "Prerequisite: [(EECS 281 and (MATH 214 or 217 or 296 or 417 or 419, or ROB 101)); (C or better, No OP/F)].\u00a0Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20445/"
+    },
+    {
+        "Course code": "EECS 448",
+        "Course title": "Applied Machine Learning for Modeling Human Behavior",
+        "Course Prerequisites": "Prerequisite: EECS 281 and (MATH 214 or MATH 217 or MATH 296 or MATH 417 or MATH 419, or ROB 101); (C or better; No OP/F) or Graduate Standing in CSE",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20448/"
+    },
+    {
+        "Course code": "EECS 449",
+        "Course title": "Conversational Artificial Intelligence",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F).\u00a0Advisory Prerequisite: EECS 485 or EECS 493. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20449/"
+    },
+    {
+        "Course code": "EECS 452",
+        "Course title": "Digital Signal Processing Design Laboratory",
+        "Course Prerequisites": "Prerequisite: EECS 280, and (EECS 351 or EECS 455) or graduate standing. Minimum grade of \u201cC\u201d required. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20452/"
+    },
+    {
+        "Course code": "EECS 453",
+        "Course title": "Principles of Machine Learning",
+        "Course Prerequisites": "Prerequisite: EECS 280 and (STATS 250 or STATS 280 or STATS 412 or STATS 426 or EECS 301 or IOE 265 or TO 301) and (EECS 351 or MATH 214 or MATH 217 or MATH 296 or MATH 417 or MATH 419 or ROB 101). (C or better, No OP/F).",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20453/"
+    },
+    {
+        "Course code": "EECS 455",
+        "Course title": "Wireless Communications Systems",
+        "Course Prerequisites": "Prerequisite: EECS 216 and EECS 301 or graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20455/"
+    },
+    {
+        "Course code": "EECS 456",
+        "Course title": "Internet Foundations",
+        "Course Prerequisites": "Prerequisite: EECS 300 or EECS 270 or graduate standing or permission of instructor. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20456/"
+    },
+    {
+        "Course code": "EECS 458",
+        "Course title": "Biomedical Instrumentation and Design",
+        "Course Prerequisites": "Prerequisite: EECS 215 or EECS 314 or consent of instructor or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20458/"
+    },
+    {
+        "Course code": "EECS 460",
+        "Course title": "Control Systems Analysis and Design",
+        "Course Prerequisites": "Prerequisite: EECS 216 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20460/"
+    },
+    {
+        "Course code": "EECS 461",
+        "Course title": "Embedded Control Systems",
+        "Course Prerequisites": "Prerequisite: EECS 216 or EECS 373 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20461/"
+    },
+    {
+        "Course code": "EECS 463",
+        "Course title": "Power Systems Design and Operation",
+        "Course Prerequisites": "Prerequisite: ((PHYS 240 or PHYS 260) and EECS 215 and EECS 216) or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20463/"
+    },
+    {
+        "Course code": "EECS 464",
+        "Course title": "Hands-on Robotics",
+        "Course Prerequisites": "Prerequisite: EECS 216 or EECS 281 or ME 360 or CEE 212 or IOE 333 or Graduate Standing. \u00a0Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20464/"
+    },
+    {
+        "Course code": "EECS 465",
+        "Course title": "Introduction to Algorithmic Robotics",
+        "Course Prerequisites": "Prerequisite: EECS 280 and MATH 215 and (junior standing or senior standing) or graduate standing). Minimum grade of \u201cC\u201d required for enforced prerequisites. Advisory Prerequisite: EECS 281 and (MATH 214 or MATH 217 or MATH 417 or MATH 419 or ROB 101) or permission of instructor.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20465/"
+    },
+    {
+        "Course code": "EECS 467",
+        "Course title": "Autonomous Robotics Design Experience",
+        "Course Prerequisites": "Prerequisite: EECS 281 and (MATH 214 or MATH 217 or MATH 296 or MATH 417 or MATH 419, or ROB 101) and (EECS 367 or EECS 373); (No OP/F). Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20467/"
+    },
+    {
+        "Course code": "EECS 470",
+        "Course title": "Computer Architecture",
+        "Course Prerequisites": "Prerequisite: EECS 370 and EECS 270 or graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20470/"
+    },
+    {
+        "Course code": "EECS 471",
+        "Course title": "Applied Parallel Programming with GPUs",
+        "Course Prerequisites": "Prerequisite: EECS 281 and EECS 370; (C or better, No OP/F) or Graduate Standing in CSE. Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20471/"
+    },
+    {
+        "Course code": "EECS 473",
+        "Course title": "Advanced Embedded Systems",
+        "Course Prerequisites": "Prerequisite: EECS 373 and EECS 215 or EECS 281 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20470/"
+    },
+    {
+        "Course code": "EECS 475",
+        "Course title": "Introduction to Cryptography",
+        "Course Prerequisites": "Prerequisite: EECS 376; (C or better, No OP/F) or Graduate Standing in CSE",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20475/"
+    },
+    {
+        "Course code": "EECS 476",
+        "Course title": "Data Mining",
+        "Course Prerequisites": "Prerequisite: [EECS 281 and (MATH 214 or MATH 217 or MATH 296 or MATH 417 or MATH 419, or ROB 101) (minimum grade of C)] or [EECS 403 (minimum grade of B)] or graduate standing in CSE. Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20476/"
+    },
+    {
+        "Course code": "EECS 477",
+        "Course title": "Introduction to Algorithms",
+        "Course Prerequisites": "Prerequisite: EECS 281 and EECS 376; (C or better, No OP/F). Enrollment in one minor elective allowed for Computer Science Minors. Minimum grade of \u201cC\u201d required for enforced prerequisites. No credit to a student who has taken EECS 586.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20477/"
+    },
+    {
+        "Course code": "EECS 478",
+        "Course title": "Logic Circuit Synthesis and Optimization",
+        "Course Prerequisites": "Prerequisite: EECS 203, EECS 270, and senior standing or graduate standing. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20478/"
+    },
+    {
+        "Course code": "EECS 480",
+        "Course title": "Social Computing Systems",
+        "Course Prerequisites": "Prerequisite: EECS 485 or 493. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20480/"
+    },
+    {
+        "Course code": "EECS 481",
+        "Course title": "Software Engineering",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F) or Graduate Standing in CSE. Enrollment in one minor elective allowed for Computer Science Minors",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20481/"
+    },
+    {
+        "Course code": "EECS 482",
+        "Course title": "Introduction to Operating Systems",
+        "Course Prerequisites": "Prerequisite: EECS 281 and EECS 370 or graduate standing in CSE. Minimum grade of \u201cC\u201d required for enforced prerequisites. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20482/"
+    },
+    {
+        "Course code": "EECS 483",
+        "Course title": "Compiler Construction",
+        "Course Prerequisites": "Prerequisite:  EECS 281 and EECS 370 or graduate standing in CSE. Minimum grade of \u201cC\u201d required for enforced prerequisites. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20483/"
+    },
+    {
+        "Course code": "EECS 484",
+        "Course title": "Database Management Systems",
+        "Course Prerequisites": "Prerequisite: EECS 281 (minimum grade of \u201cC\u201d) or EECS 403 (minimum grade of \u201cB\u201d) or graduate standing in CSE.  Enrollment in one minor elective allowed for Computer Science Minors. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20484/"
+    },
+    {
+        "Course code": "EECS 485",
+        "Course title": "Web Systems",
+        "Course Prerequisites": "Prerequisite: EECS 281 or graduate standing in CSE. Minimum grade of \u201cC\u201d required. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20485/"
+    },
+    {
+        "Course code": "EECS 486",
+        "Course title": "Informational Retrieval and Web Search",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F) or Graduate Standing in CSE. Enrollment in one minor elective allowed for Computer Science Minors. Minimum grade of \u201cC\u201d for enforced prerequisite. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20486/"
+    },
+    {
+        "Course code": "EECS 487",
+        "Course title": "Introduction to Natural Language Processing",
+        "Course Prerequisites": "Prerequisite: EECS 281; (C or better, No OP/F). Enrollment in one minor elective allowed for Computer Science Minors. Minimum grade of \u201cC\u201d for enforced prerequisite. (Credit cannot be obtained for both EECS 487 and EECS 595.) (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20487/"
+    },
+    {
+        "Course code": "EECS 489",
+        "Course title": "Computer Networks",
+        "Course Prerequisites": "Prerequisite: EECS 281 and EECS 370 or Graduate Standing in CSE. Enrollment in one minor elective allowed for Computer Science Minors.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20489/"
+    },
+    {
+        "Course code": "EECS 490",
+        "Course title": "Programming Languages",
+        "Course Prerequisites": "Prerequisite: EECS 281 or graduate standing in CSE. Minimum grade of \u201cC\u201d required for enforced prerequisite. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20490/"
+    },
+    {
+        "Course code": "EECS 491",
+        "Course title": "Introduction to Distributed Systems",
+        "Course Prerequisites": "Prerequisite: EECS 482 or graduate standing in CSE. Minimum grade of \u201cC\u201d required for enforced prerequisite. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20491/"
+    },
+    {
+        "Course code": "EECS 492",
+        "Course title": "Introduction to Artificial Intelligence",
+        "Course Prerequisites": "Prerequisite: EECS 281. Minimum grade of \u201cC\u201d required for enforced prerequisite. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits) (Not for graduate credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20492/"
+    },
+    {
+        "Course code": "EECS 493",
+        "Course title": "User Interface Development",
+        "Course Prerequisites": "Prerequisite: EECS 281 or graduate standing in CSE. Minimum grade of \u201cC\u201d required for enforced prerequisite. Enrollment in one minor elective allowed for Computer Science Minors. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20493/"
+    },
+    {
+        "Course code": "EECS 494",
+        "Course title": "Computer Game Design and Development",
+        "Course Prerequisites": "Prerequisite: EECS 281. Minimum grade of \u201cC\u201d required for enforced prerequisite. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20494/"
+    },
+    {
+        "Course code": "EECS 495",
+        "Course title": "Software Development for Accessibility",
+        "Course Prerequisites": "Prerequisite: EECS 281. Minimum grade of \u201cC\u201d required for enforced prerequisite. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20495/"
+    },
+    {
+        "Course code": "EECS 496",
+        "Course title": "Major Design Experience Professionalism",
+        "Course Prerequisites": "Prerequisite: Senior standing. (2 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20496/"
+    },
+    {
+        "Course code": "EECS 497",
+        "Course title": "Human-Centered Software and Design and Development",
+        "Course Prerequisites": "Prerequisite: EECS 281",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20497/"
+    },
+    {
+        "Course code": "EECS 498",
+        "Course title": "Special Topics",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20498/"
+    },
+    {
+        "Course code": "EECS 499",
+        "Course title": "Directed Study",
+        "Course Prerequisites": "Prerequisite: Senior standing in EECS. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20499/"
+    },
+    {
+        "Course code": "EECS 500",
+        "Course title": "Tutorial Lecture Series in System Science",
+        "Course Prerequisites": "Prerequisite: Graduate standing; mandatory satisfactory/unsatisfactory. (1 credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20500/"
+    },
+    {
+        "Course code": "EECS 501",
+        "Course title": "Probability and Random Processes",
+        "Course Prerequisites": "Prerequisite: EECS 301 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20501/"
+    },
+    {
+        "Course code": "EECS 502",
+        "Course title": "Stochastic Processes",
+        "Course Prerequisites": "Prerequisite: EECS 501. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20502/"
+    },
+    {
+        "Course code": "EECS 503",
+        "Course title": "Introduction to Numerical Electromagnetics",
+        "Course Prerequisites": "Prerequisite: EECS 330. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20503/"
+    },
+    {
+        "Course code": "EECS 504",
+        "Course title": "Foundations of Computer Vision",
+        "Course Prerequisites": "Prerequisite: Undergraduate Calculus, Linear Algebra, Probability and Programming. (3 credits) (Credit cannot be obtained in both EECS 442 and EECS 504.)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20504/"
+    },
+    {
+        "Course code": "EECS 505",
+        "Course title": "Computational Data Science and Machine Learning",
+        "Course Prerequisites": "Prerequisite: EECS 301 or MATH 425 or STATS 250 or STATS 412 or STATS 426 or IOE 265 or graduate standing. Minimum grade of C required for enforced prerequisites. (4 credits) (Students who have previously enrolled in 551 or 453 cannot get credit for 505.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20505/"
+    },
+    {
+        "Course code": "EECS 506",
+        "Course title": "Design of Power Electronics",
+        "Course Prerequisites": "Prerequisite: EECS 418 or graduate standing. Minimum grade of \u201cC\u201d. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20506/"
+    },
+    {
+        "Course code": "EECS 507",
+        "Course title": "Introduction to Embedded System Research",
+        "Course Prerequisites": "Advisory Prerequisites: A prior >= 400-level course on computer system or sensor design and analysis. Sufficient time to read and understand two 30-page research papers per week. Minimum grade of \u201cC\u201d.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20507/"
+    },
+    {
+        "Course code": "EECS 508",
+        "Course title": "Control and Modeling of Power Electronics",
+        "Course Prerequisites": "Prerequisite: EECS 418 or graduate standing. Minimum grade of \u201cC\u201d. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20508/"
+    },
+    {
+        "Course code": "EECS 509",
+        "Course title": "BioMEMS",
+        "Course Prerequisites": "Prerequisite: None. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20509/"
+    },
+    {
+        "Course code": "EECS 510",
+        "Course title": "RF MEMS",
+        "Course Prerequisites": "Prerequisite: EECS 414. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20510/"
+    },
+    {
+        "Course code": "EECS 511",
+        "Course title": "Integrated Analog/Digital Interface Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 413 or permission of instructor. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20511/"
+    },
+    {
+        "Course code": "EECS 512",
+        "Course title": "Amorphous and Microcrystalline Semiconductor Thin Film Devices",
+        "Course Prerequisites": "Prerequisite: EECS 421 and/or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20512/"
+    },
+    {
+        "Course code": "EECS 513",
+        "Course title": "Flat Panel Displays",
+        "Course Prerequisites": "Prerequisite: EECS 423, EECS 512 and/or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20513/"
+    },
+    {
+        "Course code": "EECS 514",
+        "Course title": "Advanced MEMS Devices and Technologies",
+        "Course Prerequisites": "Prerequisite: EECS 414. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20514/"
+    },
+    {
+        "Course code": "EECS 515",
+        "Course title": "Integrated Microsystems",
+        "Course Prerequisites": "Prerequisite: EECS 414. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20515/"
+    },
+    {
+        "Course code": "EECS 516",
+        "Course title": "Medical Imaging Systems",
+        "Course Prerequisites": "Prerequisite: EECS 351. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20516/"
+    },
+    {
+        "Course code": "EECS 517",
+        "Course title": "Physical Processes in Plasmas",
+        "Course Prerequisites": "Prerequisite: EECS 330. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20517/"
+    },
+    {
+        "Course code": "EECS 518",
+        "Course title": "Magnetosphere and Solar Wind",
+        "Course Prerequisites": "Prerequisite: Graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20518/"
+    },
+    {
+        "Course code": "EECS 519",
+        "Course title": "Plasma Generation and Diagnostics Laboratory",
+        "Course Prerequisites": "Prerequisite: Preceded or accompanied by a course covering electromagnetism. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20519/"
+    },
+    {
+        "Course code": "EECS 520",
+        "Course title": "Solid State Physics",
+        "Course Prerequisites": "Prerequisite: PHYSICS 453 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20520/"
+    },
+    {
+        "Course code": "EECS 521",
+        "Course title": "Solid State Devices",
+        "Course Prerequisites": "Prerequisite: EECS 421. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20521/"
+    },
+    {
+        "Course code": "EECS 522",
+        "Course title": "Analog Integrated Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 413. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20522/"
+    },
+    {
+        "Course code": "EECS 523",
+        "Course title": "Digital Integrated Technology",
+        "Course Prerequisites": "Prerequisite: (EECS 423 or EECS 425) and EECS 311 and EECS 320. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20523/"
+    },
+    {
+        "Course code": "EECS 524",
+        "Course title": "Organic Electronic Devices and Applications",
+        "Course Prerequisites": "Prerequisite: Permission of instructor or graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20524/"
+    },
+    {
+        "Course code": "EECS 525",
+        "Course title": "Advanced Solid State Microwave Circuits",
+        "Course Prerequisites": "Prerequisite: EECS 411 and (EECS 421 or EECS 521). (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20525/"
+    },
+    {
+        "Course code": "EECS 526",
+        "Course title": "Plasmonics",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 230, PHYSICS 240, graduated standing or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20526/"
+    },
+    {
+        "Course code": "EECS 528",
+        "Course title": "Principles of Microelectronics Process Technology",
+        "Course Prerequisites": "Prerequisite: EECS 421 and EECS 423. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20528/"
+    },
+    {
+        "Course code": "EECS 529",
+        "Course title": "Semiconductor Lasers and LEDs",
+        "Course Prerequisites": "Prerequisite: EECS 429. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20529/"
+    },
+    {
+        "Course code": "EECS 530",
+        "Course title": "Electromagnetic Theory I",
+        "Course Prerequisites": "Prerequisite: EECS 330 or Physics 438. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20530/"
+    },
+    {
+        "Course code": "EECS 531",
+        "Course title": "Antenna Theory and Design",
+        "Course Prerequisites": "Prerequisite: EECS 330. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20531/"
+    },
+    {
+        "Course code": "EECS 532",
+        "Course title": "Microwave Remote Sensing I: Radiometry",
+        "Course Prerequisites": "Prerequisite: EECS 330, graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20532/"
+    },
+    {
+        "Course code": "EECS 533",
+        "Course title": "Microwave Measurements Laboratory",
+        "Course Prerequisites": "Prerequisite: EECS 330, graduate Standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20533/"
+    },
+    {
+        "Course code": "EECS 534",
+        "Course title": "Analysis of Electric Power Distribution Systems and Loads",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 463 or graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20534/"
+    },
+    {
+        "Course code": "EECS 535",
+        "Course title": "Power System Dynamics and Control",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 463, or permission of instructor or graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20535/"
+    },
+    {
+        "Course code": "EECS 536",
+        "Course title": "Power System Markets & Optimization",
+        "Course Prerequisites": "Prerequisite: EECS 463, or permission of instructor or graduate standing. Minimum grade of \u201cC\u201d. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20536/"
+    },
+    {
+        "Course code": "EECS 537",
+        "Course title": "Classical Optics",
+        "Course Prerequisites": "Prerequisite: EECS 330 and EECS 334. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20537/"
+    },
+    {
+        "Course code": "EECS 538",
+        "Course title": "Optical Waves in Crystals",
+        "Course Prerequisites": "Prerequisite: EECS 434. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20538/"
+    },
+    {
+        "Course code": "EECS 539",
+        "Course title": "Lasers",
+        "Course Prerequisites": "Prerequisite: EECS 537 and EECS 538. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20539/"
+    },
+    {
+        "Course code": "EECS 540",
+        "Course title": "Applied Quantum Mechanics I",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20540/"
+    },
+    {
+        "Course code": "EECS 541",
+        "Course title": "Applied Quantum Mechanics II",
+        "Course Prerequisites": "Prerequisite: EECS 540. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20541/"
+    },
+    {
+        "Course code": "EECS 542",
+        "Course title": "Advanced Topics in Computer Vision",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 442 or EECS 504 or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20542/"
+    },
+    {
+        "Course code": "CSE 543",
+        "Course title": "Ethics for AI and Robotics",
+        "Course Prerequisites": "Prerequisite: Graduate standing or permission of the instructor",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20543/"
+    },
+    {
+        "Course code": "EECS 544",
+        "Course title": "Analysis of Societal Networks",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 301 or MATH 425 or STATS 425 or Graduate standing. Minimum grade of \u201cC\u201d required for advised prerequisite. (3 credits) (Credit restrictions: credit cannot be obtained in both EECS 444 and EECS 544)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20544/"
+    },
+    {
+        "Course code": "EECS 545",
+        "Course title": "Machine Learning (CSE)",
+        "Course Prerequisites": "Advisory Prerequisite: Coursework in probability, linear algebra, and programming. (Credit Exclusions: No credit to a student who has taken EECS 445, 453, or 553) (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20545/"
+    },
+    {
+        "Course code": "EECS 546",
+        "Course title": "Ultrafast Optics",
+        "Course Prerequisites": "Prerequisite: EECS 537. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20546/"
+    },
+    {
+        "Course code": "EECS 547",
+        "Course title": "Incentives and Strategic Behavior in Computational Systems",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 281 or SI 502 or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20547/"
+    },
+    {
+        "Course code": "EECS 548",
+        "Course title": "Information Visualizaiton",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 493 or equivalent or Graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20548/"
+    },
+    {
+        "Course code": "EECS 549",
+        "Course title": "Information Retrieval",
+        "Course Prerequisites": "Prerequisite: SI 507 or SI 507 Waiver or SI 508 or CSE Grad Standing. Minimum grade requirement of C- for enforced prerequisites. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20549/"
+    },
+    {
+        "Course code": "EECS 550",
+        "Course title": "Information Theory",
+        "Course Prerequisites": "Prerequisite: EECS 501. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20550/"
+    },
+    {
+        "Course code": "EECS 551",
+        "Course title": "Matrix Methods for Signal Processing, Data Analysis and Machine Learning",
+        "Course Prerequisites": "Prerequisite: EECS 351 or Graduate Standing. Min grade of \u201cC\u201d. Students who have previously enrolled in 453 or 505 cannot get credit for 551. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20551/"
+    },
+    {
+        "Course code": "EECS 552",
+        "Course title": "Fiber Optics: Internet to Biomedical Applications",
+        "Course Prerequisites": "Prerequisite: Any one of EECS 334, EECS 429, EECS 434, EECS 529, EECS 537, EECS 538, EECS 539 or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20552/"
+    },
+    {
+        "Course code": "EECS 553",
+        "Course title": "Machine Learning (ECE)",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 501, EECS 551. (3 credits) (Students may not receive credit for both EECS 553 and EECS 545)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20553/"
+    },
+    {
+        "Course code": "EECS 554",
+        "Course title": "Introduction to Digital Communication and Coding",
+        "Course Prerequisites": "Prerequisite: EECS 216 and EECS 301. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20554/"
+    },
+    {
+        "Course code": "EECS 555",
+        "Course title": "Digital Communication Theory",
+        "Course Prerequisites": "Prerequisite: EECS 501, EECS 554. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20555/"
+    },
+    {
+        "Course code": "EECS 556",
+        "Course title": "Image Processing",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 501; Corequisite:\u00a0EECS 453 or EECS 551. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20556/"
+    },
+    {
+        "Course code": "EECS 557",
+        "Course title": "Communication Networks",
+        "Course Prerequisites": "Prerequisite: Graduate standing, preceded by EECS 301 or accompanied by EECS 501. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20557/"
+    },
+    {
+        "Course code": "EECS 558",
+        "Course title": "Stochastic Control",
+        "Course Prerequisites": "Prerequisite: EECS 501, EECS 560. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20558/"
+    },
+    {
+        "Course code": "EECS 559",
+        "Course title": "Optimization Methods in Signal Processing and Machine Learning",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 551 and EECS 501. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20559/"
+    },
+    {
+        "Course code": "EECS 560",
+        "Course title": "Linear Systems Theory",
+        "Course Prerequisites": "Prerequisite: Graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20560/"
+    },
+    {
+        "Course code": "EECS 561",
+        "Course title": "Design of Digital Control Systems",
+        "Course Prerequisites": "Prerequisite: EECS 460 or MECHENG 461. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20561/"
+    },
+    {
+        "Course code": "EECS 562",
+        "Course title": "Nonlinear Systems and Control",
+        "Course Prerequisites": "Prerequisite: Graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20562/"
+    },
+    {
+        "Course code": "EECS 563",
+        "Course title": "Hybrid Systems, Analysis, and Control",
+        "Course Prerequisites": "Advisory Prerequisite: (EECS 562) or (EECS 560 and permission of instructor.) (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20563/"
+    },
+    {
+        "Course code": "EECS 564",
+        "Course title": "Estimation, Filtering, and Detection",
+        "Course Prerequisites": "Prerequisite: EECS 501. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20564/"
+    },
+    {
+        "Course code": "EECS 565",
+        "Course title": "Linear Feedback Control Systems",
+        "Course Prerequisites": "Prerequisite: EECS 460 or AEROSP 348 or MECHENG 461 and AEROSP 550 (EECS 560). (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20565/"
+    },
+    {
+        "Course code": "EECS 566",
+        "Course title": "Discrete Event Systems",
+        "Course Prerequisites": "Prerequisite: Graduate standing (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20566/"
+    },
+    {
+        "Course code": "EECS 567",
+        "Course title": "Robot Kinematics and Dynamics",
+        "Course Prerequisites": "Prerequisite: Graduate standing or permission of instructor (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20567/"
+    },
+    {
+        "Course code": "EECS 568",
+        "Course title": "Mobile Robotics: Methods and Algorithms",
+        "Course Prerequisites": "Prerequisite: Graduate Standing or permission of instructor. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20568/"
+    },
+    {
+        "Course code": "EECS 569",
+        "Course title": "Production Systems Engineering",
+        "Course Prerequisites": "Prerequisite: None. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20569/"
+    },
+    {
+        "Course code": "EECS 570",
+        "Course title": "Parallel Computer Architecture",
+        "Course Prerequisites": "Prerequisite: EECS 470. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20570/"
+    },
+    {
+        "Course code": "EECS 571",
+        "Course title": "Principles of Real-Time Computing",
+        "Course Prerequisites": "Prerequisite: EECS 470, EECS 482 or permission of instructor. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20571/"
+    },
+    {
+        "Course code": "EECS 572",
+        "Course title": "Randomness and Computation",
+        "Course Prerequisites": "Prerequisite: EECS 376 (B+ or better, No OP/F); or Graduate Standing. Advisory Prerequisite- Coursework in probability and algorithms. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20572/"
+    },
+    {
+        "Course code": "EECS 573",
+        "Course title": "Microarchitecture",
+        "Course Prerequisites": "Prerequisite: EECS 470 or permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20573/"
+    },
+    {
+        "Course code": "EECS 574",
+        "Course title": "Computational Complexity",
+        "Course Prerequisites": "Prerequisite: EECS 376 (B+ or better, No OP/F); or Graduate Standing. Advised Prerequisite- Coursework in probability and algorithms. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20574/"
+    },
+    {
+        "Course code": "EECS 575",
+        "Course title": "Advanced Cryptography",
+        "Course Prerequisites": "Prerequisite: EECS 376 (B+ or better, No OP/F); or Graduate Standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20575/"
+    },
+    {
+        "Course code": "EECS 576",
+        "Course title": "Advanced Data Mining",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 281 and (MATH 214 or 217 or 296 or 417 or 419 or ROB 101) and (STATS 412 or MATH 425), or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20576/"
+    },
+    {
+        "Course code": "EECS 578",
+        "Course title": "Correct Operation for Processors and Embedded Systems",
+        "Course Prerequisites": "Prerequisite: EECS 470 or graduate standing or permission of instructor.",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20578/"
+    },
+    {
+        "Course code": "EECS 579",
+        "Course title": "Digital System Testing",
+        "Course Prerequisites": "Prerequisite: Graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20579/"
+    },
+    {
+        "Course code": "EECS 582",
+        "Course title": "Advanced Operating Systems",
+        "Course Prerequisites": "Prerequisite: EECS 482. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20582/"
+    },
+    {
+        "Course code": "EECS 583",
+        "Course title": "Advanced Compilers",
+        "Course Prerequisites": "Prerequisite: EECS 281 and 370 (EECS 483 is also recommended) (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20583/"
+    },
+    {
+        "Course code": "EECS 584",
+        "Course title": "Advanced Database Systems",
+        "Course Prerequisites": "Prerequisite: EECS 484 or permission of instructor. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20584/"
+    },
+    {
+        "Course code": "EECS 586",
+        "Course title": "Design and Analysis of Algorithms",
+        "Course Prerequisites": "Prerequisite: EECS 376 (B+ or better, No OP/F); or Graduate Standing",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20586/"
+    },
+    {
+        "Course code": "EECS 587",
+        "Course title": "Parallel Computing",
+        "Course Prerequisites": "Prerequisite: EECS 281 and graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20587/"
+    },
+    {
+        "Course code": "EECS 588",
+        "Course title": "Computer and Network Security",
+        "Course Prerequisites": "Prerequisite: EECS 482 or EECS 489 or graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20588/"
+    },
+    {
+        "Course code": "EECS 589",
+        "Course title": "Advanced Computer Networks",
+        "Course Prerequisites": "Prerequisite: EECS 489. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20589/"
+    },
+    {
+        "Course code": "EECS 590",
+        "Course title": "Advanced Programming Languages",
+        "Course Prerequisites": "Prerequisite: EECS 281 or equivalent. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20590/"
+    },
+    {
+        "Course code": "EECS 591",
+        "Course title": "Distributed Systems",
+        "Course Prerequisites": "Prerequisite: EECS 482 and graduate standing. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20591/"
+    },
+    {
+        "Course code": "EECS 592",
+        "Course title": "Foundations of Artificial Intelligence",
+        "Course Prerequisites": "Advisory Prerequisite: Graduate standing. (4 credits) (Credit cannot be obtained for both EECS 492 and EECS 592.)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20592/"
+    },
+    {
+        "Course code": "EECS 593",
+        "Course title": "Human-Computer Interaction",
+        "Course Prerequisites": "Prerequisite: Graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20593/"
+    },
+    {
+        "Course code": "EECS 595",
+        "Course title": "Natural Language Processing",
+        "Course Prerequisites": "Prerequisite: Senior Standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20595/"
+    },
+    {
+        "Course code": "EECS 596",
+        "Course title": "Master of Engineering Team Project",
+        "Course Prerequisites": "Prerequisite: Enrollment in the Masters of Engineering program in EECS. (1-6 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20596/"
+    },
+    {
+        "Course code": "EECS 597",
+        "Course title": "Language and Information",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 380 or concurrent election of one of SI 503 or LING 541; and Graduate Standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20597/"
+    },
+    {
+        "Course code": "EECS 598",
+        "Course title": "Special Topics in Electrical Engineering and Computer Science",
+        "Course Prerequisites": "Prerequisite: Permission of instructor or counselor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20598/"
+    },
+    {
+        "Course code": "EECS 599",
+        "Course title": "Directed Study",
+        "Course Prerequisites": "Prerequisite: Prior arrangement with instructor; mandatory satisfactory/unsatisfactory. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20599/"
+    },
+    {
+        "Course code": "EECS 600",
+        "Course title": "Function Space Methods in System Theory",
+        "Course Prerequisites": "Prerequisite: MATH 419. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20600/"
+    },
+    {
+        "Course code": "EECS 601",
+        "Course title": "Introduction to CSE Graduate Research",
+        "Course Prerequisites": "Prerequisite: Graduate Standing. (1 credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20601/"
+    },
+    {
+        "Course code": "EECS 602",
+        "Course title": "Reinforcement Learning Theory",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 501",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20602/"
+    },
+    {
+        "Course code": "EECS 605",
+        "Course title": "Data Science and Machine Learning Design Laboratory",
+        "Course Prerequisites": "Advisory Prerequisite: EECS 505 or 551 or graduate equivalent. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20605/"
+    },
+    {
+        "Course code": "EECS 620",
+        "Course title": "Electronic and Optical Properties of Semiconductors",
+        "Course Prerequisites": "Prerequisite: EECS 520 or EECS 540. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20620/"
+    },
+    {
+        "Course code": "EECS 627",
+        "Course title": "VLSI Design II",
+        "Course Prerequisites": "Prerequisite: EECS 427. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20627/"
+    },
+    {
+        "Course code": "EECS 628",
+        "Course title": "Advanced High Performance VLSI Design",
+        "Course Prerequisites": "Prerequisite: EECS 627 or equivalent. (3-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20628/"
+    },
+    {
+        "Course code": "EECS 631",
+        "Course title": "Electromagnetic Scattering",
+        "Course Prerequisites": "Prerequisite: EECS 530 and graduate standing. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20631/"
+    },
+    {
+        "Course code": "EECS 633",
+        "Course title": "Numerical Methods in Electromagnetics",
+        "Course Prerequisites": "Prerequisite: EECS 530. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20633/"
+    },
+    {
+        "Course code": "EECS 634",
+        "Course title": "Nonlinear Optics",
+        "Course Prerequisites": "Prerequisite: EECS 537 or EECS 538 or EECS 530. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20634/"
+    },
+    {
+        "Course code": "EECS 638",
+        "Course title": "Quantum Theory of Light",
+        "Course Prerequisites": "Prerequisite: Quantum mechanics, electrodynamics, atomic physics. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20638/"
+    },
+    {
+        "Course code": "EECS 643",
+        "Course title": "Theory of Neural Computation",
+        "Course Prerequisites": "Prerequisite: Graduate standing or permission of instructor. (2-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20643/"
+    },
+    {
+        "Course code": "EECS 644",
+        "Course title": "Computational Modeling of Cognition",
+        "Course Prerequisites": "Prerequisite: Graduate standing or permission of instructor. (2-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20644/"
+    },
+    {
+        "Course code": "EECS 650",
+        "Course title": "Channel Coding Theory",
+        "Course Prerequisites": "Prerequisite: EECS 501 and MATH 419. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20650/"
+    },
+    {
+        "Course code": "EECS 659",
+        "Course title": "Adaptive Signal Processing",
+        "Course Prerequisites": "Prerequisite: EECS 564. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20659/"
+    },
+    {
+        "Course code": "EECS 662",
+        "Course title": "Advanced Nonlinear Control",
+        "Course Prerequisites": "Prerequisite: EECS 562 or MECHENG 548. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20662/"
+    },
+    {
+        "Course code": "EECS 670",
+        "Course title": "Special Topics in Computer Architecture",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20670/"
+    },
+    {
+        "Course code": "EECS 692",
+        "Course title": "Advanced Artificial Intelligence",
+        "Course Prerequisites": "Prerequisites: EECS 592 or EECS 492. Minimum grade of \u201cC\u201d required for enforced prerequisites. (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20692/"
+    },
+    {
+        "Course code": "EECS 695",
+        "Course title": "Neural Models and Psychological Processes",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20695/"
+    },
+    {
+        "Course code": "EECS 698",
+        "Course title": "Master\u2019s Thesis",
+        "Course Prerequisites": "Prerequisite: Election of an EECS master\u2019s thesis option. (1-6 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20698/"
+    },
+    {
+        "Course code": "EECS 699",
+        "Course title": "Research Work in Electrical Engineering and Computer Science",
+        "Course Prerequisites": "Prerequisite: Graduate standing, permission of instructor; mandatory satisfactory/unsatisfactory. (1-6 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20699/"
+    },
+    {
+        "Course code": "EECS 700",
+        "Course title": "Special Topics in System Theory",
+        "Course Prerequisites": "Prerequisite: Permission of instructor (to be arranged)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20700/"
+    },
+    {
+        "Course code": "EECS 720",
+        "Course title": "Special Topics in Solid-State Devices, Integrated Circuits, and Physical Electronics",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20720/"
+    },
+    {
+        "Course code": "EECS 730",
+        "Course title": "Special Topics in Electromagnetics",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (1-4 credits) (to be arranged)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20730/"
+    },
+    {
+        "Course code": "EECS 735",
+        "Course title": "Special Topics in the Optical Sciences",
+        "Course Prerequisites": "Prerequisite: Graduate standing, permission of instructor (to be arranged) (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20735/"
+    },
+    {
+        "Course code": "EECS 750",
+        "Course title": "Special Topics in Communication and Information Theory",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (to be arranged)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20750/"
+    },
+    {
+        "Course code": "EECS 755",
+        "Course title": "Special Topics in Signal Processing",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (to be arranged) (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20755/"
+    },
+    {
+        "Course code": "EECS 760",
+        "Course title": "Special Topics in Control Theory",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (to be arranged)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20760/"
+    },
+    {
+        "Course code": "EECS 765",
+        "Course title": "Special Topics in Stochastic Systems and Control",
+        "Course Prerequisites": "Prerequisite: Permission of instructor. (to be arranged) (3 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20765/"
+    },
+    {
+        "Course code": "EECS 820",
+        "Course title": "Seminar in Solid-State Electronics",
+        "Course Prerequisites": "Prerequisite: Graduate standing, permission of instructor. (1 credit)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20820/"
+    },
+    {
+        "Course code": "EECS 990",
+        "Course title": "Dissertation/Pre-Candidate",
+        "Course Prerequisites": "(2-8 credits); (1-4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20990/"
+    },
+    {
+        "Course code": "EECS 995",
+        "Course title": "Dissertation/Candidate",
+        "Course Prerequisites": "Prerequisite: Graduate School authorization for admission as a doctoral candidate. (8 credits); (4 credits)",
+        "Course link": "https://atlas.ai.umich.edu/course/EECS%20995/"
+    }
+]
