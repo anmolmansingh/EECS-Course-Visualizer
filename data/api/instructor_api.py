@@ -8,6 +8,7 @@ from data.api.instructor_api_call import instructor_courses, oauth_call
 
 CSV_PATH = "data/cache/csv"
 JSON_PATH = "data/cache/json"
+# ignore directed study/dissertation courses
 IGNORE_COURSES = {'EECS 399', 'EECS 499', 'EECS 599', 'EECS 699', 'EECS 990', 'EECS 995', 'SI 995', 'DESCI 990', 'DESCI 995', 'ROB 590', 'ROB 990', 'ROB 995'}
 
 # 

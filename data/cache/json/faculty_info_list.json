@@ -145,8 +145,8 @@
     },
     {
         "Faculty name": "Bertacco, Valeria",
-        "Email": "vale@umich.edu",
-        "Uniqname": "vale",
+        "Email": "valeria@umich.edu",
+        "Uniqname": "valeria",
         "Department": "CSE"
     },
     {
@@ -762,6 +762,12 @@
         "Department": "CSE"
     },
     {
+        "Faculty name": "Kim, Gyouho",
+        "Email": "coolkgh@umich.edu",
+        "Uniqname": "coolkgh",
+        "Department": "ECE"
+    },
+    {
         "Faculty name": "Kim, Hun-Seok",
         "Email": "hunseok@umich.edu",
         "Uniqname": "hunseok",
@@ -867,12 +873,6 @@
         "Faculty name": "Liepa, Valdis V.",
         "Email": "liepa@umich.edu",
         "Uniqname": "liepa",
-        "Department": "ECE"
-    },
-    {
-        "Faculty name": "Lim, Jaechan",
-        "Email": "jaechan@umich.edu",
-        "Uniqname": "jaechan",
         "Department": "ECE"
     },
     {
